@@ -1,0 +1,2762 @@
+{
+    "historia": [
+        {
+            "pergunta": "Em que data Angola conquistou a independência?",
+            "alternativas": [
+                "4 de Fevereiro de 1961",
+                "11 de Novembro de 1975",
+                "25 de Abril de 1974",
+                "1 de Janeiro de 1976"
+            ],
+            "correta": 1,
+            "explicacao": "Angola conquistou a independência em 11 de Novembro de 1975."
+        },
+        {
+            "pergunta": "Qual é a capital de Angola?",
+            "alternativas": [
+                "Benguela",
+                "Huambo",
+                "Luanda",
+                "Lubango"
+            ],
+            "correta": 2,
+            "explicacao": "Luanda é a capital da República de Angola."
+        },
+        {
+            "pergunta": "Quem foi o primeiro Presidente de Angola?",
+            "alternativas": [
+                "Holden Roberto",
+                "Agostinho Neto",
+                "Jonas Savimbi",
+                "José Eduardo dos Santos"
+            ],
+            "correta": 1,
+            "explicacao": "António Agostinho Neto foi o primeiro Presidente de Angola."
+        },
+        {
+            "pergunta": "Em que data ocorreu o início da luta armada de libertação nacional em Angola?",
+            "alternativas": [
+                "4 de Fevereiro de 1961",
+                "11 de Novembro de 1975",
+                "1 de Maio de 1960",
+                "25 de Abril de 1974"
+            ],
+            "correta": 0,
+            "explicacao": "O dia 4 de Fevereiro de 1961 é assinalado como início da luta armada de libertação nacional."
+        },
+        {
+            "pergunta": "Em que ano foi realizada a Conferência de Berlim?",
+            "alternativas": [
+                "1914",
+                "1884-1885",
+                "1975",
+                "1961"
+            ],
+            "correta": 1,
+            "explicacao": "A Conferência de Berlim decorreu entre 1884 e 1885."
+        },
+        {
+            "pergunta": "Qual foi o principal objetivo da luta de libertação nacional em Angola?",
+            "alternativas": [
+                "Conquistar a independência",
+                "Aumentar os impostos",
+                "Criar uma monarquia",
+                "Expandir o comércio europeu"
+            ],
+            "correta": 0,
+            "explicacao": "A luta procurava pôr fim ao domínio colonial e conquistar a independência."
+        },
+        {
+            "pergunta": "Em que ano Angola conquistou a independência?",
+            "alternativas": [
+                "1961",
+                "1975",
+                "1980",
+                "1992"
+            ],
+            "correta": 1,
+            "explicacao": "Angola tornou-se independente em 11 de Novembro de 1975."
+        },
+        {
+            "pergunta": "Qual era a capital do antigo Reino do Kongo?",
+            "alternativas": [
+                "Luanda",
+                "Mbanza Kongo",
+                "Benguela",
+                "Huambo"
+            ],
+            "correta": 1,
+            "explicacao": "Mbanza Kongo era a capital do antigo Reino do Kongo."
+        },
+        {
+            "pergunta": "Quem foi a conhecida rainha que resistiu à expansão colonial portuguesa?",
+            "alternativas": [
+                "Rainha Ginga",
+                "Rainha Nzuzu",
+                "Rainha Ana",
+                "Rainha Isabel"
+            ],
+            "correta": 0,
+            "explicacao": "A Rainha Nzinga Mbandi, também conhecida como Rainha Ginga, destacou-se pela resistência ao domínio português."
+        },
+        {
+            "pergunta": "Em que ano foi fundado o MPLA?",
+            "alternativas": [
+                "1956",
+                "1961",
+                "1966",
+                "1975"
+            ],
+            "correta": 0,
+            "explicacao": "O MPLA foi fundado em 1956."
+        },
+        {
+            "pergunta": "Em que ano foi fundada a UNITA?",
+            "alternativas": [
+                "1956",
+                "1961",
+                "1966",
+                "1975"
+            ],
+            "correta": 2,
+            "explicacao": "A UNITA foi fundada em 1966."
+        },
+        {
+            "pergunta": "Quem foi o navegador português associado à chegada portuguesa ao Reino do Kongo no século XV?",
+            "alternativas": [
+                "Vasco da Gama",
+                "Diogo Cão",
+                "Bartolomeu Dias",
+                "Pedro Álvares Cabral"
+            ],
+            "correta": 1,
+            "explicacao": "Diogo Cão chegou à região do Reino do Kongo por volta de 1482."
+        },
+        {
+            "pergunta": "Qual era uma das principais atividades económicas dos antigos reinos de Angola?",
+            "alternativas": [
+                "Agricultura e comércio",
+                "Indústria automóvel",
+                "Produção de computadores",
+                "Exploração espacial"
+            ],
+            "correta": 0,
+            "explicacao": "A agricultura e o comércio eram atividades importantes nos antigos reinos."
+        },
+        {
+            "pergunta": "Qual foi uma das consequências da Conferência de Berlim para África?",
+            "alternativas": [
+                "A independência imediata dos países africanos",
+                "A divisão colonial de territórios africanos",
+                "O fim de todas as guerras",
+                "A criação da União Africana"
+            ],
+            "correta": 1,
+            "explicacao": "A Conferência de Berlim contribuiu para a divisão colonial de territórios africanos pelas potências europeias."
+        },
+        {
+            "pergunta": "Qual foi o principal objetivo da colonização portuguesa em Angola?",
+            "alternativas": [
+                "Controlar o território e explorar recursos",
+                "Conceder independência imediata",
+                "Criar Estados africanos independentes",
+                "Eliminar o comércio"
+            ],
+            "correta": 0,
+            "explicacao": "A colonização envolveu o controlo político e económico do território e a exploração dos seus recursos."
+        },
+        {
+            "pergunta": "Que organização africana foi criada em 1963 para promover a unidade do continente?",
+            "alternativas": [
+                "ONU",
+                "OUA",
+                "NATO",
+                "SADC"
+            ],
+            "correta": 1,
+            "explicacao": "A Organização da Unidade Africana (OUA) foi criada em 1963."
+        },
+        {
+            "pergunta": "Em que ano terminou oficialmente a guerra civil em Angola?",
+            "alternativas": [
+                "1991",
+                "1992",
+                "2002",
+                "2010"
+            ],
+            "correta": 2,
+            "explicacao": "O fim da guerra civil foi assinalado em 2002, após a assinatura do Memorando de Entendimento do Luena."
+        },
+        {
+            "pergunta": "Qual é a data do Dia da Paz em Angola?",
+            "alternativas": [
+                "4 de Abril",
+                "11 de Novembro",
+                "4 de Fevereiro",
+                "17 de Setembro"
+            ],
+            "correta": 0,
+            "explicacao": "O Dia da Paz e da Reconciliação Nacional é celebrado a 4 de Abril."
+        },
+        {
+            "pergunta": "Quem foi a Rainha Nzinga Mbandi?",
+            "alternativas": [
+                "Uma rainha que resistiu à expansão portuguesa",
+                "Uma exploradora europeia",
+                "Uma presidente angolana",
+                "Uma escritora portuguesa"
+            ],
+            "correta": 0,
+            "explicacao": "Nzinga Mbandi destacou-se pela resistência à expansão portuguesa."
+        },
+        {
+            "pergunta": "Em que província fica Mbanza Kongo?",
+            "alternativas": [
+                "Bengo",
+                "Zaire",
+                "Uíge",
+                "Malanje"
+            ],
+            "correta": 1,
+            "explicacao": "Mbanza Kongo é a capital da província do Zaire."
+        },
+        {
+            "pergunta": "Em que ano foi assinado o Acordo de Alvor?",
+            "alternativas": [
+                "1975",
+                "1961",
+                "1974",
+                "1976"
+            ],
+            "correta": 0,
+            "explicacao": "O Acordo de Alvor foi assinado em Janeiro de 1975."
+        },
+        {
+            "pergunta": "Qual era a potência colonial de Angola antes da independência?",
+            "alternativas": [
+                "França",
+                "Portugal",
+                "Bélgica",
+                "Inglaterra"
+            ],
+            "correta": 1,
+            "explicacao": "Portugal foi a potência colonial que governou Angola."
+        },
+        {
+            "pergunta": "Em que data se celebra o Dia do Herói Nacional em Angola?",
+            "alternativas": [
+                "17 de Setembro",
+                "4 de Abril",
+                "11 de Novembro",
+                "4 de Fevereiro"
+            ],
+            "correta": 0,
+            "explicacao": "O Dia do Herói Nacional é celebrado a 17 de Setembro, data do nascimento de Agostinho Neto."
+        },
+        {
+            "pergunta": "Qual destes foi um antigo reino da região de Angola?",
+            "alternativas": [
+                "Reino do Kongo",
+                "Império Romano",
+                "Reino da França",
+                "Império Britânico"
+            ],
+            "correta": 0,
+            "explicacao": "O Reino do Kongo foi uma importante formação política da África Central."
+        },
+        {
+            "pergunta": "Qual é o nome completo do primeiro Presidente de Angola?",
+            "alternativas": [
+                "António Agostinho Neto",
+                "José Eduardo dos Santos",
+                "António Manuel de Oliveira Guterres",
+                "Holden Álvaro Roberto"
+            ],
+            "correta": 0,
+            "explicacao": "O primeiro Presidente de Angola foi António Agostinho Neto."
+        },
+        {
+            "pergunta": "Qual foi a importância do Reino do Ndongo na história de Angola?",
+            "alternativas": [
+                "Foi uma importante formação política africana",
+                "Foi uma colónia francesa",
+                "Foi uma província portuguesa",
+                "Foi um reino europeu"
+            ],
+            "correta": 0,
+            "explicacao": "O Reino do Ndongo foi uma importante formação política da região antes da colonização."
+        },
+        {
+            "pergunta": "Quem foi o fundador da nação angolana moderna, segundo a história oficial?",
+            "alternativas": [
+                "Agostinho Neto",
+                "Holden Roberto",
+                "Jonas Savimbi",
+                "António Van-Dúnem"
+            ],
+            "correta": 0,
+            "explicacao": "Agostinho Neto é reconhecido como o fundador da nação angolana moderna."
+        },
+        {
+            "pergunta": "Em que século ocorreu a chegada dos portugueses ao território do Reino do Kongo?",
+            "alternativas": [
+                "Século XIII",
+                "Século XIV",
+                "Século XV",
+                "Século XVIII"
+            ],
+            "correta": 2,
+            "explicacao": "Os portugueses chegaram ao Reino do Kongo no final do século XV."
+        },
+        {
+            "pergunta": "Qual destes acontecimentos ocorreu em 1961 em Angola?",
+            "alternativas": [
+                "A proclamação da independência",
+                "O início da luta armada de libertação nacional",
+                "A assinatura do Acordo de Alvor",
+                "O fim da guerra civil"
+            ],
+            "correta": 1,
+            "explicacao": "A luta armada de libertação nacional começou em 4 de Fevereiro de 1961."
+        },
+        {
+            "pergunta": "O que foi o tráfico transatlântico de escravizados?",
+            "alternativas": [
+                "O transporte forçado de africanos para as Américas",
+                "Uma viagem comercial voluntária",
+                "Um acordo de independência",
+                "Uma organização política africana"
+            ],
+            "correta": 0,
+            "explicacao": "Foi o transporte forçado de milhões de africanos escravizados através do oceano Atlântico."
+        },
+        {
+            "pergunta": "Qual foi uma das principais consequências do colonialismo em Angola?",
+            "alternativas": [
+                "Exploração dos recursos e da população",
+                "Independência imediata",
+                "Fim das desigualdades",
+                "Desenvolvimento político autónomo"
+            ],
+            "correta": 0,
+            "explicacao": "O colonialismo envolveu exploração económica, domínio político e desigualdades sociais."
+        },
+        {
+            "pergunta": "Que país europeu colonizou Angola?",
+            "alternativas": [
+                "Espanha",
+                "Portugal",
+                "Alemanha",
+                "Itália"
+            ],
+            "correta": 1,
+            "explicacao": "Angola foi colonizada por Portugal."
+        },
+        {
+            "pergunta": "Qual é a data de nascimento de Agostinho Neto?",
+            "alternativas": [
+                "17 de Setembro de 1922",
+                "11 de Novembro de 1975",
+                "4 de Abril de 1963",
+                "4 de Fevereiro de 1961"
+            ],
+            "correta": 0,
+            "explicacao": "Agostinho Neto nasceu em 17 de Setembro de 1922."
+        },
+        {
+            "pergunta": "Qual foi o papel dos movimentos de libertação nacional?",
+            "alternativas": [
+                "Lutar contra o domínio colonial",
+                "Defender a colonização",
+                "Impedir a independência",
+                "Criar o tráfico de escravizados"
+            ],
+            "correta": 0,
+            "explicacao": "Os movimentos de libertação lutaram pelo fim do domínio colonial."
+        },
+        {
+            "pergunta": "Qual destes acontecimentos marcou o ano de 1975 em Angola?",
+            "alternativas": [
+                "A independência nacional",
+                "A Conferência de Berlim",
+                "A criação da OUA",
+                "O início da luta armada"
+            ],
+            "correta": 0,
+            "explicacao": "Angola conquistou a independência em 11 de Novembro de 1975."
+        },
+        {
+            "pergunta": "Em que ano Angola foi admitida como membro da Organização das Nações Unidas (ONU)?",
+            "alternativas": [
+                "1975",
+                "1976",
+                "1980",
+                "1990"
+            ],
+            "correta": 1,
+            "explicacao": "Angola foi admitida na ONU em 1 de Dezembro de 1976."
+        },
+        {
+            "pergunta": "Qual era o título tradicional dos soberanos do Reino do Ndongo?",
+            "alternativas": [
+                "Ngola",
+                "Faraó",
+                "César",
+                "Sultão"
+            ],
+            "correta": 0,
+            "explicacao": "Ngola era o título dos soberanos do Reino do Ndongo e está na origem do nome Angola."
+        },
+        {
+            "pergunta": "Em que ano ocorreu a Batalha de Mbwila, entre forças do Reino do Kongo e dos portugueses?",
+            "alternativas": [
+                "1482",
+                "1575",
+                "1665",
+                "1885"
+            ],
+            "correta": 2,
+            "explicacao": "A Batalha de Mbwila ocorreu em 1665."
+        },
+        {
+            "pergunta": "Em que ano Mbanza Kongo foi inscrita na lista do Património Mundial da UNESCO?",
+            "alternativas": [
+                "2002",
+                "2010",
+                "2017",
+                "2022"
+            ],
+            "correta": 2,
+            "explicacao": "Mbanza Kongo foi inscrita como Património Mundial da UNESCO em 2017."
+        },
+        {
+            "pergunta": "Em que mês e ano ocorreu a revolta da Baixa de Cassanje?",
+            "alternativas": [
+                "Janeiro de 1961",
+                "Novembro de 1975",
+                "Abril de 2002",
+                "Setembro de 1992"
+            ],
+            "correta": 0,
+            "explicacao": "A revolta da Baixa de Cassanje ocorreu em Janeiro de 1961."
+        },
+        {
+            "pergunta": "Qual foi a importância do Reino do Kongo na África Central?",
+            "alternativas": [
+                "Foi um importante Estado africano",
+                "Foi uma colónia americana",
+                "Foi um império asiático",
+                "Foi uma organização europeia"
+            ],
+            "correta": 0,
+            "explicacao": "O Reino do Kongo foi um importante Estado africano, com organização política, económica e social."
+        },
+        {
+            "pergunta": "Quem foi Ekuikui II?",
+            "alternativas": [
+                "Rei do Bailundo",
+                "Primeiro Presidente de Angola",
+                "Navegador português",
+                "Fundador da OUA"
+            ],
+            "correta": 0,
+            "explicacao": "Ekuikui II foi um dos conhecidos soberanos do Reino do Bailundo."
+        },
+        {
+            "pergunta": "Qual era a principal finalidade da Conferência de Berlim de 1884-1885?",
+            "alternativas": [
+                "Regular a expansão colonial europeia em África",
+                "Conceder independência a Angola",
+                "Criar a ONU",
+                "Acabar com todas as monarquias africanas"
+            ],
+            "correta": 0,
+            "explicacao": "A conferência estabeleceu regras para a expansão e ocupação colonial europeia em África."
+        },
+        {
+            "pergunta": "Qual foi a importância do 4 de Fevereiro de 1961 na história angolana?",
+            "alternativas": [
+                "Início da luta armada de libertação nacional",
+                "Proclamação da independência",
+                "Assinatura do Acordo de Alvor",
+                "Fim da guerra civil"
+            ],
+            "correta": 0,
+            "explicacao": "O 4 de Fevereiro é uma data histórica ligada ao início da luta armada contra o colonialismo."
+        },
+        {
+            "pergunta": "Em que ano foi proclamada a independência de Angola?",
+            "alternativas": [
+                "1961",
+                "1974",
+                "1975",
+                "2002"
+            ],
+            "correta": 2,
+            "explicacao": "A independência de Angola foi proclamada em 11 de Novembro de 1975."
+        },
+        {
+            "pergunta": "Qual foi a importância da Rainha Njinga Mbandi na história de Angola?",
+            "alternativas": [
+                "Resistiu à expansão colonial portuguesa",
+                "Proclamou a independência em 1975",
+                "Fundou a ONU",
+                "Foi a primeira governadora de Luanda"
+            ],
+            "correta": 0,
+            "explicacao": "Njinga Mbandi destacou-se pela resistência política e militar à expansão portuguesa."
+        },
+        {
+            "pergunta": "Que acontecimento histórico é celebrado em Angola no dia 17 de Setembro?",
+            "alternativas": [
+                "Dia do Herói Nacional",
+                "Dia da Paz",
+                "Dia da Independência",
+                "Dia da Polícia Nacional"
+            ],
+            "correta": 0,
+            "explicacao": "O dia 17 de Setembro celebra o Dia do Herói Nacional, associado ao nascimento de Agostinho Neto."
+        },
+        {
+            "pergunta": "Qual foi uma das consequências da escravatura para as populações africanas?",
+            "alternativas": [
+                "Deslocação forçada e perda de liberdade",
+                "Independência imediata",
+                "Aumento da autonomia política",
+                "Fim da exploração colonial"
+            ],
+            "correta": 0,
+            "explicacao": "A escravatura provocou deslocações forçadas, separação de famílias e perda de liberdade."
+        },
+        {
+            "pergunta": "Qual é o significado histórico do dia 11 de Novembro para Angola?",
+            "alternativas": [
+                "Independência nacional",
+                "Início da Conferência de Berlim",
+                "Fundação do Reino do Kongo",
+                "Fim da guerra civil"
+            ],
+            "correta": 0,
+            "explicacao": "Em 11 de Novembro de 1975 foi proclamada a independência de Angola."
+        },
+        {
+            "pergunta": "Qual destas instituições internacionais foi criada em 1945?",
+            "alternativas": [
+                "Organização das Nações Unidas",
+                "União Africana",
+                "SADC",
+                "Organização da Unidade Africana"
+            ],
+            "correta": 0,
+            "explicacao": "A Organização das Nações Unidas foi fundada em 1945."
+        }
+    ],
+    "administracao": [
+        {
+            "pergunta": "Qual é uma das funções da Administração Pública?",
+            "alternativas": [
+                "Servir o interesse público",
+                "Organizar clubes privados",
+                "Vender produtos particulares",
+                "Substituir os tribunais"
+            ],
+            "correta": 0,
+            "explicacao": "A Administração Pública procura satisfazer as necessidades coletivas e servir o interesse público."
+        },
+        {
+            "pergunta": "O que significa atendimento ao público?",
+            "alternativas": [
+                "Ignorar os cidadãos",
+                "Prestar assistência aos cidadãos",
+                "Impedir reclamações",
+                "Evitar prestar informações"
+            ],
+            "correta": 1,
+            "explicacao": "O atendimento ao público consiste em prestar assistência e informações aos cidadãos."
+        },
+        {
+            "pergunta": "O que é a Administração Pública?",
+            "alternativas": [
+                "Conjunto de órgãos e serviços que prosseguem o interesse público",
+                "Conjunto de empresas privadas",
+                "Grupo de partidos políticos",
+                "Organização de clubes desportivos"
+            ],
+            "correta": 0,
+            "explicacao": "A Administração Pública reúne órgãos e serviços destinados a satisfazer necessidades coletivas."
+        },
+        {
+            "pergunta": "Qual é a principal finalidade da Administração Pública?",
+            "alternativas": [
+                "Servir o interesse público",
+                "Favorecer interesses particulares",
+                "Controlar empresas privadas",
+                "Organizar atividades desportivas"
+            ],
+            "correta": 0,
+            "explicacao": "A Administração Pública deve atuar em benefício da coletividade."
+        },
+        {
+            "pergunta": "O que significa o princípio da legalidade?",
+            "alternativas": [
+                "Atuar de acordo com a lei",
+                "Agir sem regras",
+                "Ignorar a Constituição",
+                "Criar leis individualmente"
+            ],
+            "correta": 0,
+            "explicacao": "A Administração Pública deve respeitar a Constituição e as leis."
+        },
+        {
+            "pergunta": "O que significa imparcialidade?",
+            "alternativas": [
+                "Tratar todos sem favoritismos",
+                "Favorecer familiares",
+                "Discriminar cidadãos",
+                "Beneficiar conhecidos"
+            ],
+            "correta": 0,
+            "explicacao": "A imparcialidade exige decisões sem favorecimentos indevidos."
+        },
+        {
+            "pergunta": "Qual destas atitudes demonstra bom atendimento ao público?",
+            "alternativas": [
+                "Prestar informações com respeito e clareza",
+                "Ignorar os cidadãos",
+                "Recusar todas as reclamações",
+                "Tratar mal os utentes"
+            ],
+            "correta": 0,
+            "explicacao": "O atendimento deve ser respeitoso, claro e prestável."
+        },
+        {
+            "pergunta": "O que é um funcionário público?",
+            "alternativas": [
+                "Pessoa que exerce funções num serviço público",
+                "Pessoa que trabalha apenas numa empresa privada",
+                "Qualquer comerciante",
+                "Um representante de uma associação desportiva"
+            ],
+            "correta": 0,
+            "explicacao": "É um trabalhador que exerce funções na Administração Pública, nos termos da lei."
+        },
+        {
+            "pergunta": "O que significa eficiência nos serviços públicos?",
+            "alternativas": [
+                "Utilizar adequadamente os recursos para alcançar resultados",
+                "Desperdiçar recursos",
+                "Atrasar todos os processos",
+                "Evitar prestar serviços"
+            ],
+            "correta": 0,
+            "explicacao": "A eficiência procura alcançar bons resultados com utilização adequada dos recursos."
+        },
+        {
+            "pergunta": "Qual é a função principal de um serviço público?",
+            "alternativas": [
+                "Satisfazer necessidades da população",
+                "Defender interesses exclusivamente privados",
+                "Impedir o acesso dos cidadãos",
+                "Substituir todas as empresas"
+            ],
+            "correta": 0,
+            "explicacao": "Os serviços públicos destinam-se a responder às necessidades coletivas."
+        },
+        {
+            "pergunta": "O que é hierarquia administrativa?",
+            "alternativas": [
+                "Organização dos serviços por níveis de autoridade e responsabilidade",
+                "Ausência de chefias",
+                "Igualdade de cargos em todas as situações",
+                "Organização de partidos políticos"
+            ],
+            "correta": 0,
+            "explicacao": "A hierarquia estabelece níveis de autoridade, direção e responsabilidade."
+        },
+        {
+            "pergunta": "Qual deve ser a atitude de um funcionário perante informações confidenciais do serviço?",
+            "alternativas": [
+                "Preservar o sigilo nos termos da lei",
+                "Divulgar a todos",
+                "Publicar nas redes sociais",
+                "Entregar a pessoas não autorizadas"
+            ],
+            "correta": 0,
+            "explicacao": "O funcionário deve proteger informações confidenciais e respeitar o dever de sigilo."
+        },
+        {
+            "pergunta": "O que é centralização administrativa?",
+            "alternativas": [
+                "Concentração de decisões nos órgãos centrais",
+                "Transferência de poderes para empresas",
+                "Ausência de autoridade",
+                "Eliminação dos serviços públicos"
+            ],
+            "correta": 0,
+            "explicacao": "A centralização concentra decisões nos órgãos superiores da Administração."
+        },
+        {
+            "pergunta": "O que é descentralização administrativa?",
+            "alternativas": [
+                "Concentração de todas as decisões num único órgão",
+                "Distribuição de competências por diferentes entidades públicas",
+                "Privatização de todos os serviços",
+                "Eliminação das instituições públicas"
+            ],
+            "correta": 1,
+            "explicacao": "A descentralização atribui competências a diferentes entidades públicas."
+        },
+        {
+            "pergunta": "Qual é a importância do planeamento administrativo?",
+            "alternativas": [
+                "Organizar atividades e definir objetivos",
+                "Aumentar a desorganização",
+                "Eliminar responsabilidades",
+                "Impedir a prestação de serviços"
+            ],
+            "correta": 0,
+            "explicacao": "O planeamento ajuda a definir objetivos e organizar os recursos."
+        },
+        {
+            "pergunta": "O que significa prestar contas na Administração Pública?",
+            "alternativas": [
+                "Esconder as despesas",
+                "Explicar e justificar a utilização dos recursos públicos",
+                "Utilizar dinheiro público sem controlo",
+                "Evitar fiscalizações"
+            ],
+            "correta": 1,
+            "explicacao": "A prestação de contas permite controlar e justificar a utilização dos recursos públicos."
+        },
+        {
+            "pergunta": "O que são recursos humanos na Administração Pública?",
+            "alternativas": [
+                "Os trabalhadores dos serviços",
+                "Os edifícios públicos",
+                "Os equipamentos informáticos",
+                "Os documentos arquivados"
+            ],
+            "correta": 0,
+            "explicacao": "Os recursos humanos são as pessoas que trabalham nas instituições."
+        },
+        {
+            "pergunta": "Qual é a finalidade de um orçamento público?",
+            "alternativas": [
+                "Planear receitas e despesas",
+                "Registar apenas os salários",
+                "Eliminar os impostos",
+                "Controlar empresas privadas"
+            ],
+            "correta": 0,
+            "explicacao": "O orçamento prevê receitas e despesas para determinado período."
+        },
+        {
+            "pergunta": "O que significa pontualidade no serviço público?",
+            "alternativas": [
+                "Chegar e cumprir os horários estabelecidos",
+                "Trabalhar apenas quando desejar",
+                "Abandonar o posto sem autorização",
+                "Ignorar o horário de atendimento"
+            ],
+            "correta": 0,
+            "explicacao": "A pontualidade contribui para o bom funcionamento dos serviços."
+        },
+        {
+            "pergunta": "O que é um procedimento administrativo?",
+            "alternativas": [
+                "Conjunto de etapas para tratar um assunto administrativo",
+                "Uma atividade desportiva",
+                "Uma conversa informal",
+                "Uma operação bancária particular"
+            ],
+            "correta": 0,
+            "explicacao": "O procedimento administrativo reúne as etapas necessárias para uma decisão ou atuação administrativa."
+        },
+        {
+            "pergunta": "Qual é a finalidade da fiscalização administrativa?",
+            "alternativas": [
+                "Verificar o cumprimento das normas e procedimentos",
+                "Impedir o funcionamento dos serviços",
+                "Favorecer funcionários",
+                "Eliminar documentos públicos"
+            ],
+            "correta": 0,
+            "explicacao": "A fiscalização verifica se as normas e os procedimentos são cumpridos."
+        },
+        {
+            "pergunta": "O que significa igualdade no atendimento público?",
+            "alternativas": [
+                "Atender os cidadãos sem discriminação",
+                "Atender apenas pessoas conhecidas",
+                "Favorecer pessoas influentes",
+                "Cobrar valores diferentes sem fundamento"
+            ],
+            "correta": 0,
+            "explicacao": "A igualdade exige tratamento sem discriminação injustificada."
+        },
+        {
+            "pergunta": "O que é conflito de interesses?",
+            "alternativas": [
+                "Situação em que interesses pessoais podem influenciar uma decisão profissional",
+                "Uma reunião de trabalho",
+                "Uma atividade de formação",
+                "Uma mudança de horário"
+            ],
+            "correta": 0,
+            "explicacao": "O conflito de interesses pode comprometer a imparcialidade do funcionário."
+        },
+        {
+            "pergunta": "Qual é a função de um protocolo administrativo?",
+            "alternativas": [
+                "Registar a entrada e a saída de documentos",
+                "Destruir correspondências",
+                "Substituir o atendimento público",
+                "Guardar dinheiro"
+            ],
+            "correta": 0,
+            "explicacao": "O protocolo permite registar e acompanhar a circulação de documentos."
+        },
+        {
+            "pergunta": "O que é delegação de competências?",
+            "alternativas": [
+                "Atribuição autorizada de determinadas competências a outro responsável",
+                "Abandono das funções",
+                "Eliminação de responsabilidades legais",
+                "Transferência de bens particulares"
+            ],
+            "correta": 0,
+            "explicacao": "A delegação permite que outro responsável exerça determinadas competências nos termos legais."
+        },
+        {
+            "pergunta": "Qual é a importância da formação profissional dos funcionários públicos?",
+            "alternativas": [
+                "Melhorar conhecimentos e competências",
+                "Reduzir a qualidade do serviço",
+                "Eliminar a responsabilidade",
+                "Impedir a modernização"
+            ],
+            "correta": 0,
+            "explicacao": "A formação ajuda a melhorar o desempenho profissional."
+        },
+        {
+            "pergunta": "O que significa continuidade dos serviços públicos?",
+            "alternativas": [
+                "Garantir que os serviços funcionem regularmente",
+                "Encerrar os serviços sem motivo",
+                "Atender apenas em ocasiões especiais",
+                "Suspender permanentemente o atendimento"
+            ],
+            "correta": 0,
+            "explicacao": "A continuidade procura assegurar a prestação regular dos serviços públicos."
+        },
+        {
+            "pergunta": "O que deve orientar a utilização dos bens públicos?",
+            "alternativas": [
+                "O interesse do serviço e o cumprimento das regras",
+                "A vantagem pessoal do funcionário",
+                "A utilização sem autorização",
+                "A venda para benefício particular"
+            ],
+            "correta": 0,
+            "explicacao": "Os bens públicos devem ser utilizados para as finalidades do serviço."
+        },
+        {
+            "pergunta": "Qual é a função de uma reclamação administrativa?",
+            "alternativas": [
+                "Comunicar uma insatisfação para apreciação pelo serviço competente",
+                "Substituir uma lei",
+                "Garantir automaticamente uma promoção",
+                "Eliminar um processo"
+            ],
+            "correta": 0,
+            "explicacao": "A reclamação permite apresentar uma insatisfação para análise e resposta."
+        },
+        {
+            "pergunta": "O que é modernização administrativa?",
+            "alternativas": [
+                "Melhoria dos métodos e serviços através de novas práticas e tecnologias",
+                "Regresso obrigatório a processos mais lentos",
+                "Eliminação de todos os serviços",
+                "Proibição do uso de tecnologia"
+            ],
+            "correta": 0,
+            "explicacao": "A modernização procura tornar os serviços mais eficientes e acessíveis."
+        },
+        {
+            "pergunta": "O que significa responsabilidade no exercício de funções públicas?",
+            "alternativas": [
+                "Cumprir os deveres e responder pelos próprios atos",
+                "Ignorar as orientações legais",
+                "Transferir sempre a culpa",
+                "Utilizar o cargo para benefício próprio"
+            ],
+            "correta": 0,
+            "explicacao": "O funcionário deve cumprir os seus deveres e responder pelos seus atos."
+        },
+        {
+            "pergunta": "Qual é a importância da organização documental?",
+            "alternativas": [
+                "Facilitar a conservação e localização de documentos",
+                "Dificultar a consulta",
+                "Eliminar todos os registos",
+                "Impedir a comunicação entre serviços"
+            ],
+            "correta": 0,
+            "explicacao": "A organização documental facilita a consulta, conservação e controlo da informação."
+        },
+        {
+            "pergunta": "O que é o interesse público?",
+            "alternativas": [
+                "Aquilo que beneficia a coletividade",
+                "Aquilo que beneficia apenas um funcionário",
+                "A vantagem de uma empresa privada",
+                "Um interesse exclusivamente familiar"
+            ],
+            "correta": 0,
+            "explicacao": "O interesse público está relacionado com as necessidades da sociedade."
+        },
+        {
+            "pergunta": "Qual é a função principal de um serviço público?",
+            "alternativas": [
+                "Prestar serviços à população",
+                "Favorecer apenas os funcionários",
+                "Impedir o acesso dos cidadãos",
+                "Proteger interesses particulares"
+            ],
+            "correta": 0,
+            "explicacao": "Os serviços públicos procuram satisfazer necessidades coletivas."
+        },
+        {
+            "pergunta": "O que significa legalidade administrativa?",
+            "alternativas": [
+                "Atuar de acordo com a Constituição e as leis",
+                "Agir conforme interesses pessoais",
+                "Ignorar as normas",
+                "Tomar decisões sem fundamento"
+            ],
+            "correta": 0,
+            "explicacao": "A Administração Pública deve respeitar a lei."
+        },
+        {
+            "pergunta": "O que é imparcialidade administrativa?",
+            "alternativas": [
+                "Tratar os cidadãos sem favoritismo",
+                "Favorecer amigos e familiares",
+                "Discriminar os cidadãos",
+                "Tomar decisões por vingança"
+            ],
+            "correta": 0,
+            "explicacao": "A imparcialidade exige decisões sem favorecimentos indevidos."
+        },
+        {
+            "pergunta": "O que é eficiência administrativa?",
+            "alternativas": [
+                "Utilizar bem os recursos para alcançar resultados",
+                "Desperdiçar recursos públicos",
+                "Aumentar procedimentos desnecessários",
+                "Evitar o cumprimento de objetivos"
+            ],
+            "correta": 0,
+            "explicacao": "A eficiência procura obter bons resultados com uma utilização adequada dos recursos."
+        },
+        {
+            "pergunta": "O que significa eficácia na Administração Pública?",
+            "alternativas": [
+                "Alcançar os objetivos definidos",
+                "Gastar mais dinheiro",
+                "Aumentar o número de documentos",
+                "Evitar resultados"
+            ],
+            "correta": 0,
+            "explicacao": "A eficácia está relacionada com o cumprimento dos objetivos."
+        },
+        {
+            "pergunta": "Qual é a finalidade do arquivo público?",
+            "alternativas": [
+                "Conservar e organizar documentos",
+                "Destruir todos os documentos",
+                "Esconder informações legalmente acessíveis",
+                "Substituir os serviços administrativos"
+            ],
+            "correta": 0,
+            "explicacao": "O arquivo permite conservar e localizar documentos importantes."
+        },
+        {
+            "pergunta": "O que deve fazer um funcionário quando recebe uma ordem manifestamente ilegal?",
+            "alternativas": [
+                "Não deve executar a ordem ilegal e deve agir pelos meios legais",
+                "Cumpri-la sem questionar",
+                "Escondê-la",
+                "Transferir a ordem para um cidadão"
+            ],
+            "correta": 0,
+            "explicacao": "O exercício de funções públicas deve respeitar a Constituição e a lei."
+        },
+        {
+            "pergunta": "O que é atendimento ao público?",
+            "alternativas": [
+                "Prestação de informações e serviços aos cidadãos",
+                "Atendimento exclusivo aos familiares",
+                "Venda de produtos particulares",
+                "Fiscalização de atividades escolares"
+            ],
+            "correta": 0,
+            "explicacao": "O atendimento ao público permite responder às necessidades dos cidadãos."
+        },
+        {
+            "pergunta": "Qual é a importância da transparência administrativa?",
+            "alternativas": [
+                "Permitir conhecimento e controlo da atuação pública nos termos da lei",
+                "Esconder todas as decisões",
+                "Impedir a fiscalização",
+                "Eliminar a prestação de contas"
+            ],
+            "correta": 0,
+            "explicacao": "A transparência favorece a confiança e o controlo da Administração."
+        },
+        {
+            "pergunta": "O que é um ato administrativo?",
+            "alternativas": [
+                "Uma decisão ou declaração de um órgão administrativo no exercício das suas funções",
+                "Uma atividade desportiva",
+                "Uma reunião familiar",
+                "Uma transação entre particulares"
+            ],
+            "correta": 0,
+            "explicacao": "O ato administrativo é uma forma de atuação da Administração Pública."
+        },
+        {
+            "pergunta": "O que significa hierarquia administrativa?",
+            "alternativas": [
+                "Organização dos órgãos e serviços em níveis de autoridade",
+                "Ausência de organização",
+                "Igualdade de funções em todos os cargos",
+                "Eliminação dos responsáveis"
+            ],
+            "correta": 0,
+            "explicacao": "A hierarquia organiza a autoridade e a coordenação dos serviços."
+        },
+        {
+            "pergunta": "Qual é o objetivo da auditoria pública?",
+            "alternativas": [
+                "Examinar e avaliar a utilização dos recursos e os procedimentos",
+                "Impedir o funcionamento dos serviços",
+                "Eliminar os registos financeiros",
+                "Favorecer interesses particulares"
+            ],
+            "correta": 0,
+            "explicacao": "A auditoria ajuda a verificar a regularidade e o desempenho da gestão pública."
+        },
+        {
+            "pergunta": "O que é uma entidade pública?",
+            "alternativas": [
+                "Uma organização integrada na estrutura ou atividade do Estado",
+                "Uma família",
+                "Uma loja particular",
+                "Uma associação exclusivamente recreativa"
+            ],
+            "correta": 0,
+            "explicacao": "As entidades públicas desempenham funções de interesse público."
+        },
+        {
+            "pergunta": "O que significa deconcentração administrativa?",
+            "alternativas": [
+                "Distribuição de competências dentro da mesma pessoa coletiva pública",
+                "Transferência de todas as funções para empresas privadas",
+                "Eliminação dos serviços locais",
+                "Concentração de decisões num único funcionário"
+            ],
+            "correta": 0,
+            "explicacao": "A deconcentração distribui competências entre órgãos da mesma estrutura administrativa."
+        },
+        {
+            "pergunta": "Por que é importante cumprir prazos administrativos?",
+            "alternativas": [
+                "Para garantir organização e resposta atempada",
+                "Para atrasar os processos",
+                "Para impedir o atendimento",
+                "Para eliminar os documentos"
+            ],
+            "correta": 0,
+            "explicacao": "O cumprimento dos prazos contribui para a eficiência dos serviços."
+        },
+        {
+            "pergunta": "O que deve fazer um funcionário perante uma situação de corrupção?",
+            "alternativas": [
+                "Comunicar pelos canais competentes e cumprir a lei",
+                "Participar no ato",
+                "Ocultar sempre a situação",
+                "Solicitar vantagens pessoais"
+            ],
+            "correta": 0,
+            "explicacao": "A corrupção deve ser combatida através dos mecanismos legais."
+        },
+        {
+            "pergunta": "Qual é a finalidade da avaliação de desempenho dos funcionários públicos?",
+            "alternativas": [
+                "Analisar o cumprimento das funções e os resultados do trabalho",
+                "Eliminar todos os funcionários",
+                "Substituir a legislação",
+                "Impedir a formação profissional"
+            ],
+            "correta": 0,
+            "explicacao": "A avaliação permite acompanhar o desempenho e identificar melhorias."
+        }
+    ],
+    "politica": [
+        {
+            "pergunta": "Qual é a lei suprema da República de Angola?",
+            "alternativas": [
+                "Código Comercial",
+                "Constituição da República",
+                "Regulamento escolar",
+                "Código de Estrada"
+            ],
+            "correta": 1,
+            "explicacao": "A Constituição da República de Angola é a lei suprema do país."
+        },
+        {
+            "pergunta": "Angola é um Estado:",
+            "alternativas": [
+                "Monárquico",
+                "Federal",
+                "Democrático de Direito",
+                "Sem Constituição"
+            ],
+            "correta": 2,
+            "explicacao": "Angola é um Estado Democrático de Direito."
+        },
+        {
+            "pergunta": "O que é a Constituição de um país?",
+            "alternativas": [
+                "A lei fundamental do Estado",
+                "Um regulamento escolar",
+                "Um documento comercial",
+                "Uma lei municipal"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição é a lei fundamental que estabelece a organização do Estado."
+        },
+        {
+            "pergunta": "Qual é a forma de Estado de Angola?",
+            "alternativas": [
+                "Estado federal",
+                "Estado unitário",
+                "Confederação",
+                "Monarquia"
+            ],
+            "correta": 1,
+            "explicacao": "Angola é um Estado unitário."
+        },
+        {
+            "pergunta": "Onde reside a soberania nacional?",
+            "alternativas": [
+                "No Governo",
+                "No povo",
+                "Nos tribunais",
+                "Nas empresas"
+            ],
+            "correta": 1,
+            "explicacao": "A soberania pertence ao povo."
+        },
+        {
+            "pergunta": "Qual é a capital de Angola?",
+            "alternativas": [
+                "Benguela",
+                "Huambo",
+                "Luanda",
+                "Lubango"
+            ],
+            "correta": 2,
+            "explicacao": "Luanda é a capital da República de Angola."
+        },
+        {
+            "pergunta": "Qual é o símbolo nacional que representa a unidade e identidade do país?",
+            "alternativas": [
+                "A bandeira nacional",
+                "O bilhete de identidade",
+                "A carta de condução",
+                "O passaporte estrangeiro"
+            ],
+            "correta": 0,
+            "explicacao": "A bandeira é um dos símbolos nacionais de Angola."
+        },
+        {
+            "pergunta": "Qual é a principal função do Poder Legislativo?",
+            "alternativas": [
+                "Elaborar e aprovar leis",
+                "Julgar todos os crimes",
+                "Comandar empresas privadas",
+                "Executar obras particulares"
+            ],
+            "correta": 0,
+            "explicacao": "O Poder Legislativo tem como função principal legislar."
+        },
+        {
+            "pergunta": "Qual é a principal função do Poder Executivo?",
+            "alternativas": [
+                "Administrar e governar o país",
+                "Julgar processos judiciais",
+                "Organizar apenas eleições",
+                "Criar tribunais privados"
+            ],
+            "correta": 0,
+            "explicacao": "O Poder Executivo conduz a governação e a administração do Estado."
+        },
+        {
+            "pergunta": "Qual é a principal função do Poder Judicial?",
+            "alternativas": [
+                "Administrar empresas",
+                "Administrar a justiça",
+                "Aprovar o orçamento familiar",
+                "Organizar partidos políticos"
+            ],
+            "correta": 1,
+            "explicacao": "O Poder Judicial tem a função de administrar a justiça."
+        },
+        {
+            "pergunta": "Qual é o órgão que exerce o poder legislativo em Angola?",
+            "alternativas": [
+                "Assembleia Nacional",
+                "Polícia Nacional",
+                "Tribunal Supremo",
+                "Governo Provincial"
+            ],
+            "correta": 0,
+            "explicacao": "A Assembleia Nacional é o órgão legislativo de Angola."
+        },
+        {
+            "pergunta": "Quem é o titular do Poder Executivo em Angola?",
+            "alternativas": [
+                "O Presidente da República",
+                "O Presidente da Assembleia Nacional",
+                "O Governador Provincial",
+                "O Presidente do Tribunal Supremo"
+            ],
+            "correta": 0,
+            "explicacao": "O Presidente da República é o titular do Poder Executivo."
+        },
+        {
+            "pergunta": "O que é democracia?",
+            "alternativas": [
+                "Um sistema em que o poder político tem origem na vontade do povo",
+                "Um sistema sem leis",
+                "Um governo de uma única empresa",
+                "Uma forma de comércio"
+            ],
+            "correta": 0,
+            "explicacao": "A democracia baseia-se na participação e vontade dos cidadãos."
+        },
+        {
+            "pergunta": "Qual é a finalidade das eleições?",
+            "alternativas": [
+                "Permitir a escolha de representantes pelos cidadãos",
+                "Impedir a participação popular",
+                "Eliminar a Constituição",
+                "Substituir os tribunais"
+            ],
+            "correta": 0,
+            "explicacao": "As eleições permitem aos cidadãos escolher os seus representantes."
+        },
+        {
+            "pergunta": "O que é um partido político?",
+            "alternativas": [
+                "Uma organização que participa na vida política",
+                "Uma instituição bancária",
+                "Uma força policial",
+                "Uma empresa de transportes"
+            ],
+            "correta": 0,
+            "explicacao": "Os partidos políticos participam na organização e disputa da vida política."
+        },
+        {
+            "pergunta": "O que significa pluralismo político?",
+            "alternativas": [
+                "Existência de diferentes ideias e organizações políticas",
+                "Existência de apenas uma opinião permitida",
+                "Proibição de partidos políticos",
+                "Ausência de participação cívica"
+            ],
+            "correta": 0,
+            "explicacao": "O pluralismo permite a existência de diferentes correntes políticas."
+        },
+        {
+            "pergunta": "O que é cidadania?",
+            "alternativas": [
+                "Conjunto de direitos e deveres de uma pessoa enquanto membro de uma comunidade política",
+                "Apenas o direito de viajar",
+                "Uma atividade comercial",
+                "Um cargo público"
+            ],
+            "correta": 0,
+            "explicacao": "A cidadania envolve direitos e deveres."
+        },
+        {
+            "pergunta": "Qual é a função principal do Governo?",
+            "alternativas": [
+                "Conduzir a política geral do país",
+                "Substituir todos os tribunais",
+                "Organizar empresas privadas",
+                "Eliminar os órgãos de soberania"
+            ],
+            "correta": 0,
+            "explicacao": "O Governo participa na condução da política geral do país."
+        },
+        {
+            "pergunta": "O que representa a divisão de poderes?",
+            "alternativas": [
+                "Distribuição de funções entre diferentes órgãos do Estado",
+                "Concentração de todos os poderes numa pessoa",
+                "Eliminação das instituições",
+                "Separação dos cidadãos por províncias"
+            ],
+            "correta": 0,
+            "explicacao": "A divisão de poderes ajuda a organizar e equilibrar o exercício do poder público."
+        },
+        {
+            "pergunta": "O que é uma província?",
+            "alternativas": [
+                "Uma divisão territorial e administrativa do país",
+                "Um partido político",
+                "Um órgão judicial",
+                "Uma empresa pública"
+            ],
+            "correta": 0,
+            "explicacao": "A província é uma unidade da organização territorial e administrativa."
+        },
+        {
+            "pergunta": "Qual é a importância dos órgãos locais do Estado?",
+            "alternativas": [
+                "Aproximar a administração pública das populações",
+                "Impedir o atendimento aos cidadãos",
+                "Substituir a Constituição",
+                "Eliminar os serviços públicos"
+            ],
+            "correta": 0,
+            "explicacao": "Os órgãos locais ajudam a aproximar os serviços do Estado das comunidades."
+        },
+        {
+            "pergunta": "O que significa Estado de Direito?",
+            "alternativas": [
+                "Todos, incluindo os governantes, estão sujeitos à lei",
+                "Os governantes podem agir sem limites legais",
+                "As leis aplicam-se apenas aos cidadãos",
+                "Os tribunais não têm função"
+            ],
+            "correta": 0,
+            "explicacao": "No Estado de Direito, o exercício do poder está sujeito à Constituição e às leis."
+        },
+        {
+            "pergunta": "O que estabelece a Constituição sobre a organização do Estado?",
+            "alternativas": [
+                "Os princípios fundamentais da organização do Estado",
+                "As regras de empresas privadas",
+                "Apenas os horários escolares",
+                "As normas de comércio internacional"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição estabelece os princípios fundamentais da organização do Estado."
+        },
+        {
+            "pergunta": "O que significa supremacia constitucional?",
+            "alternativas": [
+                "A Constituição ocupa o nível superior da ordem jurídica",
+                "Os regulamentos estão acima da Constituição",
+                "Cada cidadão pode criar a sua própria Constituição",
+                "As leis não precisam de respeitar a Constituição"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição é a lei fundamental e deve ser respeitada pelas restantes normas."
+        },
+        {
+            "pergunta": "O que caracteriza um Estado laico?",
+            "alternativas": [
+                "Não adota uma religião oficial e respeita a liberdade religiosa",
+                "Proíbe todas as religiões",
+                "Obriga todos a seguir uma religião",
+                "É governado por instituições religiosas"
+            ],
+            "correta": 0,
+            "explicacao": "Angola é um Estado laico, conforme a Constituição."
+        },
+        {
+            "pergunta": "Qual é a língua oficial da República de Angola?",
+            "alternativas": [
+                "Português",
+                "Inglês",
+                "Francês",
+                "Espanhol"
+            ],
+            "correta": 0,
+            "explicacao": "O português é a língua oficial de Angola."
+        },
+        {
+            "pergunta": "Qual é a capital da República de Angola segundo a Constituição?",
+            "alternativas": [
+                "Luanda",
+                "Benguela",
+                "Huambo",
+                "Lubango"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição identifica Luanda como capital da República de Angola."
+        },
+        {
+            "pergunta": "Qual é um dos objetivos fundamentais do Estado angolano?",
+            "alternativas": [
+                "Construir uma sociedade livre, justa e solidária",
+                "Impedir o desenvolvimento social",
+                "Eliminar os direitos fundamentais",
+                "Promover a discriminação"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição estabelece objetivos de justiça, liberdade, solidariedade e progresso social."
+        },
+        {
+            "pergunta": "O que significa pluralismo de expressão?",
+            "alternativas": [
+                "Existência de diferentes opiniões e formas de expressão",
+                "Obrigação de todos terem a mesma opinião",
+                "Proibição de opiniões diferentes",
+                "Ausência de liberdade de expressão"
+            ],
+            "correta": 0,
+            "explicacao": "O pluralismo permite a diversidade de opiniões e ideias."
+        },
+        {
+            "pergunta": "Qual é a função dos tribunais no Estado?",
+            "alternativas": [
+                "Administrar a justiça",
+                "Elaborar o orçamento familiar",
+                "Organizar partidos políticos",
+                "Dirigir empresas privadas"
+            ],
+            "correta": 0,
+            "explicacao": "Os tribunais exercem a função jurisdicional e administram a justiça."
+        },
+        {
+            "pergunta": "O que significa independência dos tribunais?",
+            "alternativas": [
+                "Os tribunais exercem as suas funções sem interferências indevidas",
+                "Os tribunais obedecem a interesses particulares",
+                "Os tribunais substituem o Parlamento",
+                "Os tribunais não precisam respeitar a Constituição"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição estabelece a independência dos tribunais."
+        },
+        {
+            "pergunta": "Qual é a principal função da Assembleia Nacional?",
+            "alternativas": [
+                "Exercer o poder legislativo",
+                "Comandar as Forças Armadas",
+                "Dirigir os tribunais",
+                "Administrar todas as empresas privadas"
+            ],
+            "correta": 0,
+            "explicacao": "A Assembleia Nacional é o órgão que exerce o poder legislativo."
+        },
+        {
+            "pergunta": "O que é um deputado?",
+            "alternativas": [
+                "Um representante eleito para integrar a Assembleia Nacional",
+                "Um funcionário de uma empresa privada",
+                "Um juiz de primeira instância",
+                "Um governador provincial"
+            ],
+            "correta": 0,
+            "explicacao": "Os deputados integram a Assembleia Nacional e representam os cidadãos."
+        },
+        {
+            "pergunta": "O que é sufrágio universal?",
+            "alternativas": [
+                "Direito de participação eleitoral dos cidadãos que reúnem os requisitos legais",
+                "Direito de voto apenas dos funcionários públicos",
+                "Voto reservado aos governantes",
+                "Escolha de representantes por sorteio"
+            ],
+            "correta": 0,
+            "explicacao": "O sufrágio universal reconhece o direito de participação eleitoral nos termos da Constituição e da lei."
+        },
+        {
+            "pergunta": "O que significa voto secreto?",
+            "alternativas": [
+                "O conteúdo do voto de cada eleitor não é revelado",
+                "Todos devem anunciar publicamente o seu voto",
+                "O voto é feito por ordem dos partidos",
+                "O voto é escolhido por outra pessoa"
+            ],
+            "correta": 0,
+            "explicacao": "O voto secreto protege a liberdade de escolha do eleitor."
+        },
+        {
+            "pergunta": "Qual é a finalidade de um referendo?",
+            "alternativas": [
+                "Permitir que os cidadãos se pronunciem diretamente sobre uma questão submetida a consulta",
+                "Nomear todos os funcionários públicos",
+                "Substituir os tribunais",
+                "Escolher os dirigentes de empresas privadas"
+            ],
+            "correta": 0,
+            "explicacao": "O referendo é uma forma de participação direta dos cidadãos, nos termos da Constituição e da lei."
+        },
+        {
+            "pergunta": "Qual é a função do Tribunal Constitucional?",
+            "alternativas": [
+                "Exercer competências relacionadas com a justiça constitucional",
+                "Administrar os municípios",
+                "Comandar a Polícia Nacional",
+                "Aprovar o orçamento das escolas"
+            ],
+            "correta": 0,
+            "explicacao": "O Tribunal Constitucional exerce competências próprias em matéria constitucional."
+        },
+        {
+            "pergunta": "O que significa liberdade de expressão?",
+            "alternativas": [
+                "Direito de expressar opiniões dentro dos limites legais",
+                "Obrigação de aceitar uma única opinião",
+                "Proibição de comunicar ideias",
+                "Direito de ameaçar outras pessoas"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição reconhece a liberdade de expressão e informação."
+        },
+        {
+            "pergunta": "O que é participação na vida pública?",
+            "alternativas": [
+                "Participar nos assuntos da comunidade e do Estado",
+                "Ignorar todas as decisões públicas",
+                "Impedir a participação dos cidadãos",
+                "Destruir instituições públicas"
+            ],
+            "correta": 0,
+            "explicacao": "A participação na vida pública é um direito reconhecido constitucionalmente."
+        },
+        {
+            "pergunta": "O que são autarquias locais?",
+            "alternativas": [
+                "Pessoas coletivas territoriais que asseguram interesses próprios das populações locais",
+                "Empresas comerciais estrangeiras",
+                "Órgãos dos tribunais superiores",
+                "Partidos políticos nacionais"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição prevê autarquias locais como entidades do poder local."
+        },
+        {
+            "pergunta": "O que significa autonomia local?",
+            "alternativas": [
+                "Capacidade de as entidades locais tratarem dos assuntos próprios nos termos da lei",
+                "Ausência de qualquer lei no território",
+                "Poder para criar um Estado independente",
+                "Subordinação de todas as decisões a empresas privadas"
+            ],
+            "correta": 0,
+            "explicacao": "A autonomia local permite tratar assuntos próprios dentro dos limites constitucionais e legais."
+        },
+        {
+            "pergunta": "Qual é o papel do Conselho de Ministros?",
+            "alternativas": [
+                "Auxiliar o Presidente da República no exercício do Poder Executivo",
+                "Substituir a Assembleia Nacional",
+                "Exercer a função dos tribunais",
+                "Organizar eleições municipais"
+            ],
+            "correta": 0,
+            "explicacao": "O Conselho de Ministros é um dos órgãos auxiliares do Presidente da República."
+        },
+        {
+            "pergunta": "A quem pertence a soberania nacional em Angola?",
+            "alternativas": [
+                "Ao Governo",
+                "Ao povo",
+                "Aos tribunais",
+                "Aos partidos políticos"
+            ],
+            "correta": 1,
+            "explicacao": "A soberania pertence ao povo, conforme o artigo 3.º da Constituição."
+        },
+        {
+            "pergunta": "Quais são os três órgãos de soberania de Angola?",
+            "alternativas": [
+                "Presidente da República, Assembleia Nacional e Tribunais",
+                "Polícia, Bombeiros e SIC",
+                "Governo Provincial, Municípios e Comissões",
+                "Partidos, Igrejas e Empresas"
+            ],
+            "correta": 0,
+            "explicacao": "O artigo 105.º identifica estes três órgãos de soberania."
+        },
+        {
+            "pergunta": "Qual é o princípio que determina que o território angolano não pode ser dividido?",
+            "alternativas": [
+                "Princípio da indivisibilidade territorial",
+                "Princípio comercial",
+                "Princípio eleitoral",
+                "Princípio económico"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição estabelece a unidade e indivisibilidade do território nacional."
+        },
+        {
+            "pergunta": "Quais são os símbolos nacionais de Angola?",
+            "alternativas": [
+                "Bandeira, Insígnia e Hino Nacional",
+                "Passaporte, Bilhete e Carta",
+                "Moeda, Selo e Bandeira",
+                "Constituição, Lei e Decreto"
+            ],
+            "correta": 0,
+            "explicacao": "O artigo 18.º identifica os três símbolos nacionais."
+        },
+        {
+            "pergunta": "Como pode ser exercida a soberania pelo povo?",
+            "alternativas": [
+                "Através do sufrágio e de outras formas previstas na Constituição",
+                "Apenas através de manifestações",
+                "Somente por decisões empresariais",
+                "Através de ordens militares"
+            ],
+            "correta": 0,
+            "explicacao": "A Constituição prevê o sufrágio, o referendo e outras formas legais de exercício da soberania."
+        },
+        {
+            "pergunta": "O que estabelece a Constituição sobre a nacionalidade angolana?",
+            "alternativas": [
+                "Pode ser originária ou adquirida",
+                "É exclusivamente estrangeira",
+                "Não pode ser adquirida",
+                "Depende apenas do local de residência"
+            ],
+            "correta": 0,
+            "explicacao": "O artigo 9.º estabelece que a nacionalidade angolana pode ser originária ou adquirida."
+        },
+        {
+            "pergunta": "Qual é a relação entre o Estado e as igrejas em Angola?",
+            "alternativas": [
+                "Existe separação entre o Estado e as igrejas",
+                "As igrejas dirigem o Governo",
+                "O Estado pertence às igrejas",
+                "Não existe liberdade religiosa"
+            ],
+            "correta": 0,
+            "explicacao": "O artigo 10.º estabelece que Angola é um Estado laico."
+        },
+        {
+            "pergunta": "Qual é a função principal da separação de poderes?",
+            "alternativas": [
+                "Distribuir funções entre os órgãos do Estado",
+                "Concentrar todos os poderes numa pessoa",
+                "Eliminar os tribunais",
+                "Impedir a criação de leis"
+            ],
+            "correta": 0,
+            "explicacao": "A separação e interdependência de funções ajudam a organizar o exercício do poder do Estado."
+        }
+    ],
+    "minint": [
+        {
+            "pergunta": "Qual é a principal área de atuação do Ministério do Interior?",
+            "alternativas": [
+                "Segurança e ordem interna",
+                "Agricultura",
+                "Turismo",
+                "Comércio externo"
+            ],
+            "correta": 0,
+            "explicacao": "O Ministério do Interior atua em áreas relacionadas com a segurança e a ordem interna."
+        },
+        {
+            "pergunta": "Qual destas áreas está ligada ao Ministério do Interior?",
+            "alternativas": [
+                "Proteção Civil e Bombeiros",
+                "Pescas",
+                "Educação",
+                "Mineração"
+            ],
+            "correta": 0,
+            "explicacao": "A Proteção Civil e os Bombeiros integram as áreas de atuação do Ministério do Interior."
+        },
+        {
+            "pergunta": "Qual é a principal missão do Ministério do Interior?",
+            "alternativas": [
+                "Garantir a segurança interna e a ordem pública",
+                "Administrar escolas privadas",
+                "Organizar competições desportivas",
+                "Gerir empresas comerciais"
+            ],
+            "correta": 0,
+            "explicacao": "O Ministério do Interior atua em áreas ligadas à segurança interna e à ordem pública."
+        },
+        {
+            "pergunta": "Qual é uma das principais funções da Polícia Nacional?",
+            "alternativas": [
+                "Manter a ordem e a segurança públicas",
+                "Emitir diplomas escolares",
+                "Construir estradas",
+                "Administrar hospitais"
+            ],
+            "correta": 0,
+            "explicacao": "A Polícia Nacional desempenha funções de segurança e manutenção da ordem pública."
+        },
+        {
+            "pergunta": "Qual é a principal missão dos Bombeiros?",
+            "alternativas": [
+                "Prevenir e combater incêndios e prestar socorro",
+                "Investigar processos judiciais",
+                "Emitir passaportes",
+                "Controlar o orçamento do Estado"
+            ],
+            "correta": 0,
+            "explicacao": "Os Bombeiros atuam na prevenção, combate a incêndios e socorro."
+        },
+        {
+            "pergunta": "O que significa SIC?",
+            "alternativas": [
+                "Serviço de Investigação Criminal",
+                "Serviço de Informação Comercial",
+                "Sistema Interno de Comunicação",
+                "Serviço de Inspeção Escolar"
+            ],
+            "correta": 0,
+            "explicacao": "SIC significa Serviço de Investigação Criminal."
+        },
+        {
+            "pergunta": "Qual é uma das funções do Serviço de Migração e Estrangeiros?",
+            "alternativas": [
+                "Controlar e acompanhar questões relacionadas com a migração e estrangeiros",
+                "Combater incêndios",
+                "Administrar escolas",
+                "Fiscalizar mercados municipais"
+            ],
+            "correta": 0,
+            "explicacao": "O serviço trata de matérias relacionadas com migração e estrangeiros."
+        },
+        {
+            "pergunta": "O que significa proteção civil?",
+            "alternativas": [
+                "Conjunto de ações de prevenção, preparação e resposta a riscos e emergências",
+                "Apenas fiscalização de trânsito",
+                "Gestão de empresas privadas",
+                "Organização de eleições"
+            ],
+            "correta": 0,
+            "explicacao": "A proteção civil procura proteger pessoas e bens perante riscos e emergências."
+        },
+        {
+            "pergunta": "Qual deve ser a atitude de um agente policial perante o cidadão?",
+            "alternativas": [
+                "Respeitosa e profissional",
+                "Agressiva e discriminatória",
+                "Desrespeitosa",
+                "Indiferente"
+            ],
+            "correta": 0,
+            "explicacao": "O agente deve respeitar os cidadãos e atuar profissionalmente."
+        },
+        {
+            "pergunta": "O que deve fazer um cidadão ao presenciar uma emergência?",
+            "alternativas": [
+                "Contactar os serviços de emergência",
+                "Ignorar a situação",
+                "Espalhar informações não confirmadas",
+                "Dificultar o socorro"
+            ],
+            "correta": 0,
+            "explicacao": "Deve procurar ajuda através dos serviços competentes."
+        },
+        {
+            "pergunta": "Qual é a importância da prevenção criminal?",
+            "alternativas": [
+                "Reduzir os riscos e evitar a ocorrência de crimes",
+                "Aumentar os conflitos",
+                "Impedir a investigação",
+                "Eliminar a segurança pública"
+            ],
+            "correta": 0,
+            "explicacao": "A prevenção procura reduzir oportunidades e fatores de risco."
+        },
+        {
+            "pergunta": "O que deve fazer um funcionário ao receber uma denúncia?",
+            "alternativas": [
+                "Encaminhá-la e tratá-la conforme os procedimentos legais",
+                "Ignorá-la sempre",
+                "Divulgá-la publicamente",
+                "Destruir o registo"
+            ],
+            "correta": 0,
+            "explicacao": "As denúncias devem ser tratadas pelos procedimentos e órgãos competentes."
+        },
+        {
+            "pergunta": "Qual é o objetivo da investigação criminal?",
+            "alternativas": [
+                "Apurar factos relacionados com possíveis crimes",
+                "Organizar atividades recreativas",
+                "Emitir documentos escolares",
+                "Administrar empresas"
+            ],
+            "correta": 0,
+            "explicacao": "A investigação criminal procura esclarecer factos e reunir elementos de prova."
+        },
+        {
+            "pergunta": "O que é uma emergência?",
+            "alternativas": [
+                "Uma situação que exige resposta rápida para proteger pessoas ou bens",
+                "Uma reunião administrativa normal",
+                "Uma atividade comercial",
+                "Um período de férias"
+            ],
+            "correta": 0,
+            "explicacao": "Uma emergência exige intervenção adequada e atempada."
+        },
+        {
+            "pergunta": "Qual é uma medida de prevenção de incêndios?",
+            "alternativas": [
+                "Evitar sobrecarregar instalações elétricas",
+                "Bloquear saídas de emergência",
+                "Guardar materiais inflamáveis junto de fontes de calor",
+                "Ignorar sinais de perigo"
+            ],
+            "correta": 0,
+            "explicacao": "Evitar sobrecargas elétricas ajuda a reduzir riscos de incêndio."
+        },
+        {
+            "pergunta": "Qual é o papel do Serviço Penitenciário?",
+            "alternativas": [
+                "Assegurar a execução das medidas privativas de liberdade nos termos da lei",
+                "Emitir cartas de condução",
+                "Controlar o trânsito rodoviário",
+                "Administrar escolas"
+            ],
+            "correta": 0,
+            "explicacao": "O Serviço Penitenciário atua no âmbito da execução das medidas privativas de liberdade."
+        },
+        {
+            "pergunta": "O que significa ordem pública?",
+            "alternativas": [
+                "Conjunto de condições necessárias à tranquilidade e segurança da sociedade",
+                "Ausência de todas as leis",
+                "Liberdade para cometer infrações",
+                "Funcionamento exclusivo das empresas"
+            ],
+            "correta": 0,
+            "explicacao": "A ordem pública está relacionada com a tranquilidade, segurança e convivência social."
+        },
+        {
+            "pergunta": "Qual deve ser a prioridade numa operação de socorro?",
+            "alternativas": [
+                "Proteger e salvar vidas",
+                "Proteger apenas objetos",
+                "Recolher fotografias",
+                "Atrasar a assistência"
+            ],
+            "correta": 0,
+            "explicacao": "A proteção da vida humana é uma prioridade nas operações de socorro."
+        },
+        {
+            "pergunta": "O que é uma patrulha policial?",
+            "alternativas": [
+                "Atividade de vigilância e prevenção realizada por agentes policiais",
+                "Uma reunião escolar",
+                "Uma atividade comercial",
+                "Uma operação bancária"
+            ],
+            "correta": 0,
+            "explicacao": "A patrulha contribui para a prevenção e segurança pública."
+        },
+        {
+            "pergunta": "Por que é importante a disciplina nas instituições de segurança?",
+            "alternativas": [
+                "Para garantir organização e cumprimento das normas",
+                "Para permitir desobediência",
+                "Para eliminar responsabilidades",
+                "Para impedir o trabalho em equipa"
+            ],
+            "correta": 0,
+            "explicacao": "A disciplina contribui para a organização e o cumprimento dos deveres."
+        },
+        {
+            "pergunta": "O que deve orientar a atuação dos órgãos do Ministério do Interior?",
+            "alternativas": [
+                "A Constituição e as leis",
+                "Interesses particulares",
+                "Ordens ilegais",
+                "Preferências pessoais"
+            ],
+            "correta": 0,
+            "explicacao": "A atuação dos órgãos públicos deve respeitar a Constituição e as leis."
+        },
+        {
+            "pergunta": "Qual é a importância da colaboração entre os serviços de segurança e a população?",
+            "alternativas": [
+                "Facilitar a prevenção e resposta aos problemas de segurança",
+                "Impedir a comunicação",
+                "Aumentar a desinformação",
+                "Eliminar a participação dos cidadãos"
+            ],
+            "correta": 0,
+            "explicacao": "A colaboração pode contribuir para a prevenção e a segurança das comunidades."
+        },
+        {
+            "pergunta": "Qual é a principal responsabilidade do Ministério do Interior?",
+            "alternativas": [
+                "Gerir exclusivamente as escolas",
+                "Assegurar a execução das políticas de segurança interna e ordem pública",
+                "Administrar os hospitais",
+                "Controlar as atividades agrícolas"
+            ],
+            "correta": 1,
+            "explicacao": "O Ministério do Interior tem responsabilidades ligadas à segurança interna e à ordem pública."
+        },
+        {
+            "pergunta": "Qual é a principal missão do Serviço de Investigação Criminal (SIC)?",
+            "alternativas": [
+                "Investigar crimes",
+                "Emitir cartas de condução",
+                "Combater incêndios",
+                "Administrar escolas"
+            ],
+            "correta": 0,
+            "explicacao": "O SIC realiza atividades de investigação criminal."
+        },
+        {
+            "pergunta": "Qual é a principal função do Serviço de Migração e Estrangeiros (SME)?",
+            "alternativas": [
+                "Controlar e fiscalizar a entrada, permanência e saída de estrangeiros",
+                "Investigar todos os acidentes rodoviários",
+                "Administrar os tribunais",
+                "Organizar eleições"
+            ],
+            "correta": 0,
+            "explicacao": "O SME atua nas matérias de migração e estrangeiros."
+        },
+        {
+            "pergunta": "Qual é a principal missão do Serviço de Proteção Civil e Bombeiros?",
+            "alternativas": [
+                "Prestar socorro e proteger pessoas e bens",
+                "Emitir passaportes",
+                "Investigar crimes económicos",
+                "Administrar as fronteiras"
+            ],
+            "correta": 0,
+            "explicacao": "O serviço atua na proteção civil, prevenção e resposta a emergências."
+        },
+        {
+            "pergunta": "O que significa a sigla SIC?",
+            "alternativas": [
+                "Serviço de Informação Comunitária",
+                "Serviço de Investigação Criminal",
+                "Sistema Integrado de Comunicação",
+                "Serviço Interno de Controlo"
+            ],
+            "correta": 1,
+            "explicacao": "SIC significa Serviço de Investigação Criminal."
+        },
+        {
+            "pergunta": "O que significa a sigla SME?",
+            "alternativas": [
+                "Serviço de Migração e Estrangeiros",
+                "Serviço Militar Especial",
+                "Sistema de Monitorização Estatal",
+                "Serviço Municipal de Educação"
+            ],
+            "correta": 0,
+            "explicacao": "SME significa Serviço de Migração e Estrangeiros."
+        },
+        {
+            "pergunta": "Qual é uma das funções dos Bombeiros?",
+            "alternativas": [
+                "Prevenir e combater incêndios",
+                "Julgar processos judiciais",
+                "Emitir bilhetes de identidade",
+                "Dirigir os partidos políticos"
+            ],
+            "correta": 0,
+            "explicacao": "Os Bombeiros atuam na prevenção e no combate a incêndios e no socorro."
+        },
+        {
+            "pergunta": "O que é a Proteção Civil?",
+            "alternativas": [
+                "Atividade de prevenção e resposta a riscos e acidentes graves",
+                "Uma atividade exclusivamente desportiva",
+                "Um serviço de cobrança de impostos",
+                "Uma instituição bancária"
+            ],
+            "correta": 0,
+            "explicacao": "A Proteção Civil procura prevenir riscos e proteger pessoas e bens."
+        },
+        {
+            "pergunta": "Qual deve ser a atitude de um agente perante um cidadão?",
+            "alternativas": [
+                "Respeitar a dignidade e os direitos da pessoa",
+                "Discriminar os cidadãos",
+                "Ignorar as reclamações",
+                "Agir sem respeitar a lei"
+            ],
+            "correta": 0,
+            "explicacao": "O respeito pelos direitos e pela dignidade humana é essencial no serviço público."
+        },
+        {
+            "pergunta": "O que deve fazer um agente quando recebe uma ordem manifestamente ilegal?",
+            "alternativas": [
+                "Cumpri-la sempre",
+                "Recusar o cumprimento nos termos da lei",
+                "Ignorar todas as ordens futuras",
+                "Abandonar o serviço"
+            ],
+            "correta": 1,
+            "explicacao": "O cumprimento de ordens não afasta a responsabilidade perante a lei."
+        },
+        {
+            "pergunta": "Qual é a finalidade da segurança pública?",
+            "alternativas": [
+                "Proteger pessoas, bens e a ordem pública",
+                "Impedir todas as atividades comerciais",
+                "Substituir os tribunais",
+                "Controlar as opiniões dos cidadãos"
+            ],
+            "correta": 0,
+            "explicacao": "A segurança pública visa proteger a comunidade e garantir a ordem pública."
+        },
+        {
+            "pergunta": "O que é uma emergência?",
+            "alternativas": [
+                "Uma situação que exige resposta rápida para proteger pessoas ou bens",
+                "Uma reunião administrativa normal",
+                "Uma atividade recreativa",
+                "Uma cerimónia escolar"
+            ],
+            "correta": 0,
+            "explicacao": "Uma emergência exige intervenção rápida para reduzir riscos e danos."
+        },
+        {
+            "pergunta": "Qual é a primeira preocupação numa ocorrência de incêndio?",
+            "alternativas": [
+                "Proteger vidas humanas",
+                "Salvar objetos decorativos",
+                "Fotografar o local",
+                "Procurar documentos"
+            ],
+            "correta": 0,
+            "explicacao": "A proteção da vida humana é uma prioridade numa emergência."
+        },
+        {
+            "pergunta": "O que deve fazer um cidadão ao presenciar uma emergência?",
+            "alternativas": [
+                "Comunicar a situação às autoridades competentes",
+                "Espalhar informações não confirmadas",
+                "Aproximar-se do perigo sem necessidade",
+                "Impedir a chegada dos socorristas"
+            ],
+            "correta": 0,
+            "explicacao": "A comunicação rápida e responsável ajuda a mobilizar os meios de socorro."
+        },
+        {
+            "pergunta": "Qual é a importância da disciplina no serviço público?",
+            "alternativas": [
+                "Garantir responsabilidade e cumprimento das normas",
+                "Permitir desobediência às leis",
+                "Eliminar o trabalho em equipa",
+                "Impedir a formação profissional"
+            ],
+            "correta": 0,
+            "explicacao": "A disciplina contribui para a organização e eficiência do serviço."
+        },
+        {
+            "pergunta": "O que caracteriza o abuso de autoridade?",
+            "alternativas": [
+                "Utilizar o cargo ou poder de forma ilegal ou indevida",
+                "Cumprir corretamente a lei",
+                "Respeitar os direitos dos cidadãos",
+                "Prestar assistência à população"
+            ],
+            "correta": 0,
+            "explicacao": "O abuso de autoridade ocorre quando o poder é utilizado indevidamente."
+        },
+        {
+            "pergunta": "Por que razão é importante o sigilo profissional?",
+            "alternativas": [
+                "Para proteger informações que devem ser mantidas confidenciais",
+                "Para esconder todos os atos ilegais",
+                "Para impedir qualquer fiscalização",
+                "Para evitar o cumprimento da lei"
+            ],
+            "correta": 0,
+            "explicacao": "O sigilo protege informações legalmente confidenciais."
+        },
+        {
+            "pergunta": "Qual é o objetivo da prevenção rodoviária?",
+            "alternativas": [
+                "Reduzir acidentes e promover a segurança nas estradas",
+                "Aumentar a velocidade dos veículos",
+                "Eliminar os sinais de trânsito",
+                "Impedir a circulação de peões"
+            ],
+            "correta": 0,
+            "explicacao": "A prevenção rodoviária procura evitar acidentes e proteger os utentes da via."
+        },
+        {
+            "pergunta": "O que deve orientar a atuação dos serviços do Ministério do Interior?",
+            "alternativas": [
+                "A Constituição e as leis da República",
+                "Interesses pessoais",
+                "Ordens de pessoas sem competência",
+                "Preferências partidárias"
+            ],
+            "correta": 0,
+            "explicacao": "Os serviços públicos devem atuar de acordo com a Constituição e a legislação."
+        },
+        {
+            "pergunta": "Qual é a importância da cooperação entre os órgãos de segurança?",
+            "alternativas": [
+                "Melhorar a coordenação e a resposta às ocorrências",
+                "Criar conflitos entre instituições",
+                "Impedir a troca legal de informações",
+                "Duplicar desnecessariamente tarefas"
+            ],
+            "correta": 0,
+            "explicacao": "A cooperação permite uma resposta mais coordenada e eficiente."
+        },
+        {
+            "pergunta": "Qual é a importância da formação profissional dos agentes?",
+            "alternativas": [
+                "Melhorar conhecimentos e competências",
+                "Evitar o cumprimento das leis",
+                "Impedir o trabalho em equipa",
+                "Eliminar a responsabilidade"
+            ],
+            "correta": 0,
+            "explicacao": "A formação profissional melhora a preparação e a qualidade do serviço."
+        },
+        {
+            "pergunta": "O que deve fazer um agente perante uma situação de perigo para a população?",
+            "alternativas": [
+                "Atuar de acordo com os procedimentos legais e de segurança",
+                "Ignorar a situação",
+                "Criar mais perigo",
+                "Impedir a chegada dos socorristas"
+            ],
+            "correta": 0,
+            "explicacao": "A atuação deve procurar proteger vidas e respeitar os procedimentos aplicáveis."
+        },
+        {
+            "pergunta": "Qual é o objetivo da investigação criminal?",
+            "alternativas": [
+                "Recolher elementos de prova para esclarecer crimes",
+                "Substituir os tribunais",
+                "Aplicar penas sem julgamento",
+                "Organizar eleições"
+            ],
+            "correta": 0,
+            "explicacao": "A investigação criminal procura esclarecer factos criminosos e reunir provas."
+        },
+        {
+            "pergunta": "Qual é a importância da identificação de pessoas nas atividades de migração?",
+            "alternativas": [
+                "Permitir a verificação da identidade e da situação documental",
+                "Substituir a Constituição",
+                "Eliminar os direitos dos estrangeiros",
+                "Impedir a circulação legal"
+            ],
+            "correta": 0,
+            "explicacao": "A identificação ajuda a verificar a identidade e a documentação nos termos da lei."
+        },
+        {
+            "pergunta": "O que deve orientar o trabalho dos Bombeiros durante uma operação de socorro?",
+            "alternativas": [
+                "Segurança, coordenação e proteção de vidas",
+                "Improvisação sem regras",
+                "Interesses pessoais",
+                "Abandono das pessoas em perigo"
+            ],
+            "correta": 0,
+            "explicacao": "As operações de socorro exigem segurança, coordenação e prioridade à vida humana."
+        },
+        {
+            "pergunta": "O que significa atuar com imparcialidade no serviço público?",
+            "alternativas": [
+                "Tratar as pessoas sem favorecimento ou discriminação",
+                "Favorecer familiares",
+                "Discriminar por opinião",
+                "Utilizar o cargo para benefício pessoal"
+            ],
+            "correta": 0,
+            "explicacao": "A imparcialidade exige atuação justa e sem favorecimentos indevidos."
+        },
+        {
+            "pergunta": "Por que é importante elaborar relatórios de ocorrência?",
+            "alternativas": [
+                "Registar os factos e as ações realizadas",
+                "Alterar os acontecimentos",
+                "Esconder informações obrigatórias",
+                "Evitar qualquer controlo"
+            ],
+            "correta": 0,
+            "explicacao": "Os relatórios permitem documentar ocorrências e apoiar o acompanhamento dos casos."
+        },
+        {
+            "pergunta": "Qual deve ser a atitude dos serviços do Ministério do Interior perante os cidadãos?",
+            "alternativas": [
+                "Prestar serviço com respeito, responsabilidade e legalidade",
+                "Agir com discriminação",
+                "Ignorar os direitos fundamentais",
+                "Exigir vantagens pessoais"
+            ],
+            "correta": 0,
+            "explicacao": "O serviço público deve respeitar os cidadãos e cumprir a lei."
+        }
+    ],
+    "cidadania": [
+        {
+            "pergunta": "Qual é a bandeira nacional de Angola?",
+            "alternativas": [
+                "Azul e branca",
+                "Vermelha e preta com uma faixa amarela",
+                "Verde e amarela",
+                "Vermelha e branca"
+            ],
+            "correta": 1,
+            "explicacao": "A bandeira angolana possui duas faixas horizontais, vermelha e preta, com emblema amarelo ao centro."
+        },
+        {
+            "pergunta": "O que significa exercer a cidadania?",
+            "alternativas": [
+                "Desrespeitar as leis",
+                "Exercer direitos e cumprir deveres",
+                "Ignorar a sociedade",
+                "Recusar responsabilidades"
+            ],
+            "correta": 1,
+            "explicacao": "A cidadania envolve o exercício de direitos e o cumprimento de deveres."
+        },
+        {
+            "pergunta": "O que é patriotismo?",
+            "alternativas": [
+                "Amor e respeito pela pátria",
+                "Desrespeito pelas leis",
+                "Rejeição da cultura nacional",
+                "Interesse apenas pessoal"
+            ],
+            "correta": 0,
+            "explicacao": "Patriotismo é o sentimento de amor e respeito pelo país."
+        },
+        {
+            "pergunta": "Qual é a data da Independência Nacional de Angola?",
+            "alternativas": [
+                "4 de Fevereiro de 1961",
+                "11 de Novembro de 1975",
+                "17 de Setembro de 1979",
+                "25 de Abril de 1974"
+            ],
+            "correta": 1,
+            "explicacao": "Angola conquistou a Independência Nacional em 11 de Novembro de 1975."
+        },
+        {
+            "pergunta": "Qual é a importância da bandeira nacional?",
+            "alternativas": [
+                "Representar a identidade e soberania nacional",
+                "Representar uma empresa privada",
+                "Substituir a Constituição",
+                "Identificar apenas instituições escolares"
+            ],
+            "correta": 0,
+            "explicacao": "A bandeira é um símbolo da identidade e soberania de Angola."
+        },
+        {
+            "pergunta": "Quais são as cores da bandeira de Angola?",
+            "alternativas": [
+                "Azul e branco",
+                "Vermelho e preto",
+                "Verde e amarelo",
+                "Branco e verde"
+            ],
+            "correta": 1,
+            "explicacao": "A bandeira angolana tem duas faixas horizontais: vermelha e preta, com emblema amarelo."
+        },
+        {
+            "pergunta": "O que significa cidadania?",
+            "alternativas": [
+                "Exercício de direitos e deveres na sociedade",
+                "Apenas possuir dinheiro",
+                "Ter um emprego público",
+                "Viajar para outro país"
+            ],
+            "correta": 0,
+            "explicacao": "A cidadania envolve direitos, deveres e participação na sociedade."
+        },
+        {
+            "pergunta": "Qual é um dever fundamental do cidadão?",
+            "alternativas": [
+                "Respeitar a Constituição e as leis",
+                "Destruir bens públicos",
+                "Desrespeitar os outros",
+                "Impedir a educação"
+            ],
+            "correta": 0,
+            "explicacao": "Respeitar as leis é um dever dos cidadãos."
+        },
+        {
+            "pergunta": "Qual é um direito fundamental do cidadão?",
+            "alternativas": [
+                "Direito à educação",
+                "Direito de destruir património",
+                "Direito de discriminar",
+                "Direito de desobedecer a todas as leis"
+            ],
+            "correta": 0,
+            "explicacao": "A educação é um dos direitos fundamentais."
+        },
+        {
+            "pergunta": "O que é solidariedade?",
+            "alternativas": [
+                "Ajudar e apoiar outras pessoas",
+                "Ignorar quem precisa de ajuda",
+                "Promover conflitos",
+                "Desrespeitar a comunidade"
+            ],
+            "correta": 0,
+            "explicacao": "A solidariedade consiste em apoiar e ajudar os outros."
+        },
+        {
+            "pergunta": "O que significa tolerância?",
+            "alternativas": [
+                "Respeitar diferenças e opiniões",
+                "Impor sempre a própria opinião",
+                "Discriminar pessoas",
+                "Rejeitar todas as diferenças"
+            ],
+            "correta": 0,
+            "explicacao": "A tolerância promove o respeito entre pessoas com diferenças."
+        },
+        {
+            "pergunta": "O que é património nacional?",
+            "alternativas": [
+                "Bens culturais, históricos e naturais de valor para o país",
+                "Apenas dinheiro dos bancos",
+                "Somente edifícios privados",
+                "Apenas veículos públicos"
+            ],
+            "correta": 0,
+            "explicacao": "O património nacional inclui elementos culturais, históricos e naturais."
+        },
+        {
+            "pergunta": "Qual é uma forma de proteger o ambiente?",
+            "alternativas": [
+                "Evitar a poluição e cuidar dos espaços naturais",
+                "Deitar lixo nos rios",
+                "Destruir árvores sem necessidade",
+                "Queimar resíduos em qualquer lugar"
+            ],
+            "correta": 0,
+            "explicacao": "A proteção ambiental depende de atitudes responsáveis."
+        },
+        {
+            "pergunta": "Qual é a importância da unidade nacional?",
+            "alternativas": [
+                "Promover a união e a convivência entre os cidadãos",
+                "Criar divisões entre comunidades",
+                "Promover discriminação",
+                "Impedir a cooperação"
+            ],
+            "correta": 0,
+            "explicacao": "A unidade nacional fortalece a convivência e a coesão social."
+        },
+        {
+            "pergunta": "O que significa respeito pelos símbolos nacionais?",
+            "alternativas": [
+                "Tratá-los com dignidade e consideração",
+                "Destruí-los por diversão",
+                "Utilizá-los para ofender pessoas",
+                "Ignorar o seu significado"
+            ],
+            "correta": 0,
+            "explicacao": "Os símbolos nacionais representam a identidade do país."
+        },
+        {
+            "pergunta": "Qual é uma atitude de participação cívica?",
+            "alternativas": [
+                "Participar de forma responsável na comunidade",
+                "Destruir espaços públicos",
+                "Espalhar informações falsas",
+                "Ignorar os problemas da comunidade"
+            ],
+            "correta": 0,
+            "explicacao": "A participação cívica permite contribuir para a sociedade."
+        },
+        {
+            "pergunta": "O que é igualdade perante a lei?",
+            "alternativas": [
+                "Todos devem receber tratamento igual nos termos da lei",
+                "A lei aplica-se apenas aos pobres",
+                "Algumas pessoas estão sempre acima da lei",
+                "A lei depende da riqueza"
+            ],
+            "correta": 0,
+            "explicacao": "A igualdade perante a lei é um princípio fundamental."
+        },
+        {
+            "pergunta": "Qual é a importância do voto?",
+            "alternativas": [
+                "Permitir a participação na escolha dos representantes",
+                "Substituir todas as instituições",
+                "Eliminar os direitos dos cidadãos",
+                "Impedir a democracia"
+            ],
+            "correta": 0,
+            "explicacao": "O voto é uma forma de participação política dos cidadãos."
+        },
+        {
+            "pergunta": "O que significa preservar a cultura nacional?",
+            "alternativas": [
+                "Valorizar tradições, línguas e manifestações culturais",
+                "Abandonar toda a história",
+                "Destruir monumentos",
+                "Proibir manifestações culturais"
+            ],
+            "correta": 0,
+            "explicacao": "Preservar a cultura ajuda a manter a identidade nacional."
+        },
+        {
+            "pergunta": "Qual é uma atitude de responsabilidade social?",
+            "alternativas": [
+                "Contribuir para o bem-estar da comunidade",
+                "Prejudicar os vizinhos",
+                "Destruir bens comuns",
+                "Ignorar as necessidades coletivas"
+            ],
+            "correta": 0,
+            "explicacao": "A responsabilidade social envolve contribuir para o bem comum."
+        },
+        {
+            "pergunta": "Por que devemos respeitar os idosos?",
+            "alternativas": [
+                "Pela sua dignidade, experiência e direitos",
+                "Porque não têm direitos",
+                "Apenas quando possuem riqueza",
+                "Porque devem decidir tudo sozinhos"
+            ],
+            "correta": 0,
+            "explicacao": "Todas as pessoas merecem respeito e dignidade, incluindo os idosos."
+        },
+        {
+            "pergunta": "O que significa defender o bem comum?",
+            "alternativas": [
+                "Proteger os interesses coletivos da sociedade",
+                "Procurar apenas vantagens pessoais",
+                "Destruir os recursos públicos",
+                "Impedir a cooperação"
+            ],
+            "correta": 0,
+            "explicacao": "O bem comum representa aquilo que beneficia a coletividade."
+        },
+        {
+            "pergunta": "O que significa ser um cidadão responsável?",
+            "alternativas": [
+                "Respeitar os direitos dos outros e cumprir os seus deveres",
+                "Ignorar as leis",
+                "Destruir bens públicos",
+                "Desrespeitar os outros"
+            ],
+            "correta": 0,
+            "explicacao": "Um cidadão responsável respeita os outros e cumpre os seus deveres."
+        },
+        {
+            "pergunta": "O que é a cidadania?",
+            "alternativas": [
+                "Participação na vida da sociedade com direitos e deveres",
+                "Apenas o direito de votar",
+                "Uma atividade comercial",
+                "Uma profissão"
+            ],
+            "correta": 0,
+            "explicacao": "A cidadania envolve direitos, deveres e participação na sociedade."
+        },
+        {
+            "pergunta": "Qual é um dever fundamental do cidadão?",
+            "alternativas": [
+                "Respeitar a Constituição e as leis",
+                "Desobedecer às autoridades legais",
+                "Destruir o património público",
+                "Impedir a educação dos outros"
+            ],
+            "correta": 0,
+            "explicacao": "O respeito pela Constituição e pelas leis é um dever do cidadão."
+        },
+        {
+            "pergunta": "O que é o respeito pela diversidade?",
+            "alternativas": [
+                "Aceitar e respeitar as diferenças entre as pessoas",
+                "Discriminar quem pensa diferente",
+                "Impor uma única cultura",
+                "Excluir pessoas da sociedade"
+            ],
+            "correta": 0,
+            "explicacao": "O respeito pela diversidade promove a convivência pacífica."
+        },
+        {
+            "pergunta": "Qual é a importância da educação na sociedade?",
+            "alternativas": [
+                "Promover conhecimentos e desenvolvimento humano",
+                "Aumentar a discriminação",
+                "Impedir o progresso",
+                "Eliminar a participação social"
+            ],
+            "correta": 0,
+            "explicacao": "A educação contribui para o desenvolvimento das pessoas e da sociedade."
+        },
+        {
+            "pergunta": "O que significa solidariedade?",
+            "alternativas": [
+                "Ajudar e apoiar outras pessoas",
+                "Pensar apenas nos próprios interesses",
+                "Desprezar quem precisa de ajuda",
+                "Evitar a cooperação"
+            ],
+            "correta": 0,
+            "explicacao": "A solidariedade consiste em apoiar outras pessoas, especialmente em momentos difíceis."
+        },
+        {
+            "pergunta": "Como devemos tratar as pessoas com deficiência?",
+            "alternativas": [
+                "Com respeito e igualdade",
+                "Com discriminação",
+                "Com desprezo",
+                "Impedindo a sua participação"
+            ],
+            "correta": 0,
+            "explicacao": "Todas as pessoas devem ser tratadas com dignidade e igualdade."
+        },
+        {
+            "pergunta": "O que é o património público?",
+            "alternativas": [
+                "Bens e recursos pertencentes à coletividade",
+                "Bens exclusivamente privados",
+                "Objetos pessoais de uma família",
+                "Produtos de uma loja"
+            ],
+            "correta": 0,
+            "explicacao": "O património público pertence à coletividade e deve ser preservado."
+        },
+        {
+            "pergunta": "Qual é uma atitude correta perante um bem público?",
+            "alternativas": [
+                "Conservar e proteger",
+                "Destruir",
+                "Vandalizar",
+                "Apropriar-se ilegalmente"
+            ],
+            "correta": 0,
+            "explicacao": "Os bens públicos devem ser protegidos por todos."
+        },
+        {
+            "pergunta": "O que significa preservar o ambiente?",
+            "alternativas": [
+                "Proteger a natureza e evitar a poluição",
+                "Deitar lixo nos rios",
+                "Destruir as florestas",
+                "Desperdiçar água"
+            ],
+            "correta": 0,
+            "explicacao": "Preservar o ambiente significa proteger os recursos naturais."
+        },
+        {
+            "pergunta": "Por que devemos economizar água?",
+            "alternativas": [
+                "Porque é um recurso essencial à vida",
+                "Porque não tem utilidade",
+                "Porque existe em quantidade ilimitada",
+                "Porque impede a agricultura"
+            ],
+            "correta": 0,
+            "explicacao": "A água é essencial à vida e deve ser utilizada de forma responsável."
+        },
+        {
+            "pergunta": "Qual é uma consequência do lixo colocado nas ruas?",
+            "alternativas": [
+                "Poluição e possíveis doenças",
+                "Melhoria da saúde pública",
+                "Aumento da limpeza",
+                "Proteção dos rios"
+            ],
+            "correta": 0,
+            "explicacao": "O lixo pode causar poluição, entupimentos e problemas de saúde."
+        },
+        {
+            "pergunta": "O que é a corrupção?",
+            "alternativas": [
+                "Uso indevido do poder para obter vantagens pessoais",
+                "Cumprimento das leis",
+                "Prestação de serviço voluntário",
+                "Proteção dos bens públicos"
+            ],
+            "correta": 0,
+            "explicacao": "A corrupção envolve práticas desonestas para obter vantagens indevidas."
+        },
+        {
+            "pergunta": "Qual deve ser a atitude de um cidadão perante a corrupção?",
+            "alternativas": [
+                "Rejeitar e denunciar pelos meios legais",
+                "Participar nela",
+                "Incentivar práticas desonestas",
+                "Ignorar sempre os factos"
+            ],
+            "correta": 0,
+            "explicacao": "A corrupção deve ser combatida através dos meios legais."
+        },
+        {
+            "pergunta": "O que é o diálogo na resolução de conflitos?",
+            "alternativas": [
+                "Comunicação respeitosa para encontrar soluções",
+                "Uso de ameaças",
+                "Imposição pela força",
+                "Recusa de ouvir os outros"
+            ],
+            "correta": 0,
+            "explicacao": "O diálogo ajuda a resolver divergências de forma pacífica."
+        },
+        {
+            "pergunta": "Qual é a importância do voto numa democracia?",
+            "alternativas": [
+                "Permitir a escolha dos representantes",
+                "Eliminar os direitos dos cidadãos",
+                "Substituir todas as leis",
+                "Impedir a participação política"
+            ],
+            "correta": 0,
+            "explicacao": "O voto é uma forma de participação dos cidadãos na vida política."
+        },
+        {
+            "pergunta": "O que significa igualdade perante a lei?",
+            "alternativas": [
+                "Todas as pessoas têm igual proteção da lei",
+                "A lei protege apenas os ricos",
+                "Algumas pessoas estão sempre acima da lei",
+                "A lei depende da profissão"
+            ],
+            "correta": 0,
+            "explicacao": "A igualdade perante a lei é um princípio fundamental."
+        },
+        {
+            "pergunta": "Qual é uma forma de participação comunitária?",
+            "alternativas": [
+                "Participar em reuniões e atividades da comunidade",
+                "Destruir espaços comunitários",
+                "Impedir iniciativas coletivas",
+                "Ignorar os problemas locais"
+            ],
+            "correta": 0,
+            "explicacao": "A participação comunitária ajuda a resolver problemas coletivos."
+        },
+        {
+            "pergunta": "O que significa tolerância?",
+            "alternativas": [
+                "Respeitar opiniões e crenças diferentes",
+                "Obrigar todos a pensar da mesma maneira",
+                "Discriminar os outros",
+                "Impedir a liberdade de opinião"
+            ],
+            "correta": 0,
+            "explicacao": "A tolerância permite a convivência entre pessoas com opiniões diferentes."
+        },
+        {
+            "pergunta": "Por que é importante conhecer os direitos humanos?",
+            "alternativas": [
+                "Para conhecer e defender a dignidade de todas as pessoas",
+                "Para justificar a discriminação",
+                "Para impedir a liberdade",
+                "Para desrespeitar os outros"
+            ],
+            "correta": 0,
+            "explicacao": "Conhecer os direitos humanos ajuda a respeitar e proteger todas as pessoas."
+        },
+        {
+            "pergunta": "Qual é a principal função da família na sociedade?",
+            "alternativas": [
+                "Contribuir para a educação e formação dos seus membros",
+                "Impedir a educação",
+                "Promover a violência",
+                "Desrespeitar os direitos das crianças"
+            ],
+            "correta": 0,
+            "explicacao": "A família tem um papel importante na educação e formação dos seus membros."
+        },
+        {
+            "pergunta": "O que significa cumprir os deveres cívicos?",
+            "alternativas": [
+                "Respeitar as responsabilidades de cidadão",
+                "Ignorar as leis",
+                "Destruir bens públicos",
+                "Desrespeitar os outros"
+            ],
+            "correta": 0,
+            "explicacao": "Os deveres cívicos ajudam a manter uma sociedade organizada."
+        },
+        {
+            "pergunta": "Qual é uma atitude de boa convivência social?",
+            "alternativas": [
+                "Respeitar os vizinhos e a comunidade",
+                "Criar conflitos",
+                "Discriminar os outros",
+                "Desrespeitar as regras comuns"
+            ],
+            "correta": 0,
+            "explicacao": "A boa convivência depende do respeito e da cooperação."
+        },
+        {
+            "pergunta": "Por que devemos proteger as crianças?",
+            "alternativas": [
+                "Porque têm direitos e precisam de proteção especial",
+                "Porque não têm direitos",
+                "Para impedir a sua educação",
+                "Para afastá-las da sociedade"
+            ],
+            "correta": 0,
+            "explicacao": "As crianças têm direitos que devem ser respeitados e protegidos."
+        },
+        {
+            "pergunta": "O que é a responsabilidade social?",
+            "alternativas": [
+                "Contribuir para o bem-estar da comunidade",
+                "Pensar apenas no benefício pessoal",
+                "Ignorar os problemas sociais",
+                "Destruir os espaços públicos"
+            ],
+            "correta": 0,
+            "explicacao": "A responsabilidade social envolve atitudes que beneficiam a sociedade."
+        },
+        {
+            "pergunta": "Qual é a importância da paz numa sociedade?",
+            "alternativas": [
+                "Permitir a convivência segura e o desenvolvimento",
+                "Promover conflitos",
+                "Impedir a educação",
+                "Aumentar a violência"
+            ],
+            "correta": 0,
+            "explicacao": "A paz favorece a segurança, a estabilidade e o desenvolvimento."
+        },
+        {
+            "pergunta": "Como deve agir um cidadão ao receber uma informação duvidosa?",
+            "alternativas": [
+                "Verificar a informação antes de a divulgar",
+                "Partilhá-la imediatamente",
+                "Alterar o conteúdo",
+                "Divulgá-la como verdade sem confirmação"
+            ],
+            "correta": 0,
+            "explicacao": "Verificar informações ajuda a evitar a propagação de notícias falsas."
+        },
+        {
+            "pergunta": "Qual é a importância do respeito pelas instituições públicas?",
+            "alternativas": [
+                "Contribuir para o funcionamento da sociedade e do Estado",
+                "Impedir o cumprimento das leis",
+                "Destruir os serviços públicos",
+                "Promover a desordem"
+            ],
+            "correta": 0,
+            "explicacao": "As instituições públicas desempenham funções importantes para a sociedade."
+        }
+    ]
+}

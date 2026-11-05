@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simulador MININT Angola</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h2>🇦🇴 SIMULADOR MININT</h2>
+    <p>Preparação para o Concurso Público</p>
+</header>
+
+<main>
+    <section class="hero">
+        <h1>Prepara-te para vencer!</h1>
+        <p>Estuda gratuitamente. Testa os teus conhecimentos.</p>
+    </section>
+
+    <section class="materias">
+        <h2>Identificação do candidato</h2>
+        <input type="text" id="nome-candidato"
+        placeholder="Introduz o teu nome">
+
+        <h2>Escolhe uma disciplina</h2>
+
+        <select id="disciplina">
+            <option value="">Selecionar disciplina</option>
+            <option value="historia">História de Angola</option>
+            <option value="administracao">Administração Pública</option>
+            <option value="politica">Organização Política e Administrativa</option>
+            <option value="minint">Ministério do Interior</option>
+            <option value="cidadania">Patriotismo e Cidadania</option>
+        </select>
+
+        <button id="iniciar">INICIAR SIMULADO</button>
+    </section>
+
+    <section id="area-simulado" class="simulado" hidden>
+        <div id="progresso"></div>
+        <div id="cronometro">Tempo: 00:00</div>
+
+        <h3 id="pergunta"></h3>
+        <div id="alternativas"></div>
+
+        <button id="proximo" disabled>PRÓXIMA PERGUNTA</button>
+    </section>
+
+    <section id="resultado" class="resultado" hidden>
+        <h2>Resultado do Simulado</h2>
+        <h1 id="nota"></h1>
+        <p id="resumo"></p>
+        <button onclick="location.reload()">NOVO SIMULADO</button>
+    </section>
+
+    <section id="historico" class="materias">
+        <h2>Histórico das Provas</h2>
+        <div id="lista-historico">
+            Ainda não existem provas realizadas.
+        </div>
+    </section>
+</main>
+
+<footer>
+    SIMULADOR MININT ANGOLA · 100% GRATUITO
+</footer>
+
+<script src="js/app.js?v=2"></script>
+
+<footer id="criador-site">
+    <div class="avatar-criador">DB</div>
+    <h2>Daniel Breezy Samacau Canhanga</h2>
+    <p class="cargo-criador">Criador e desenvolvedor do Simulador MININT</p>
+    <p>Uma iniciativa gratuita para ajudar os candidatos
+    a prepararem-se para as provas escritas.</p>
+    <small>© 2026 Daniel Breezy. Todos os direitos reservados.</small>
+</footer>
+
+</body>
+</html>

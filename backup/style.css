@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f1f4f8;
+    color: #172536;
+}
+
+header {
+    background: #102b46;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h2 {
+    margin: 0;
+}
+
+.hero {
+    background: #174d78;
+    color: white;
+    text-align: center;
+    padding: 40px 15px;
+}
+
+.hero h1 {
+    font-size: 28px;
+}
+
+main {
+    max-width: 750px;
+    margin: auto;
+    padding: 20px;
+}
+
+.materias, .simulado, .resultado {
+    background: white;
+    padding: 22px;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 3px 12px #00000012;
+}
+
+select {
+    width: 100%;
+    padding: 14px;
+    margin: 12px 0;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    font-size: 16px;
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    margin-top: 12px;
+    background: #174d78;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:disabled {
+    background: #999;
+}
+
+.alternativa {
+    display: block;
+    background: #edf2f7;
+    padding: 14px;
+    margin: 10px 0;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.alternativa input {
+    margin-right: 10px;
+}
+
+#progresso {
+    color: #174d78;
+    font-weight: bold;
+}
+
+#cronometro {
+    text-align: right;
+    color: #b07816;
+    font-weight: bold;
+    margin: 12px 0;
+}
+
+#nota {
+    color: #174d78;
+    font-size: 42px;
+}
+
+footer {
+    background: #102b46;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 35px;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+#nome-candidato {
+    width: 100%;
+    padding: 13px;
+    margin: 12px 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.item-historico {
+    background: #eef4fa;
+    border-left: 4px solid #1769aa;
+    padding: 12px;
+    margin: 12px 0;
+    border-radius: 8px;
+}
+
+.item-historico h3 {
+    color: #1769aa;
+    margin-top: 0;
+}
+
+.item-historico p {
+    margin: 7px 0;
+}

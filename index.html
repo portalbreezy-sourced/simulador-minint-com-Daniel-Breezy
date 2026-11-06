@@ -4,12 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Simulador MININT Angola</title>
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style.css?v=11">
 </head>
 <body>
 
 <header>
-    <h2>🇦🇴 SIMULADOR MININT</h2>
+    <h2>
+        <a href="index.html" id="voltar-inicio"
+           style="color:inherit;text-decoration:none;cursor:pointer;">
+           🇦🇴 SIMULADOR MININT
+        </a>
+    </h2>
     <p>Preparação para o Concurso Público</p>
 </header>
 
@@ -19,12 +24,20 @@
         <p>Estuda gratuitamente. Testa os teus conhecimentos.</p>
     </section>
 
-    <section class="materias">
+    <section id="inicio" class="materias">
         <h2>Identificação do candidato</h2>
         <input type="text" id="nome-candidato"
         placeholder="Introduz o teu nome">
 
-        <h2>Escolhe uma disciplina</h2>
+        <h2>Escolhe o nível de dificuldade</h2>
+    <select id="nivel">
+        <option value="">Selecionar nível</option>
+        <option value="basico">Básico</option>
+        <option value="intermedio">Intermédio</option>
+        <option value="avancado">Avançado</option>
+    </select>
+
+    <h2>Escolhe uma disciplina</h2>
 
         <select id="disciplina">
             <option value="">Selecionar disciplina</option>
@@ -40,10 +53,37 @@
 
     <section id="area-simulado" class="simulado" hidden>
         <div id="progresso"></div>
+
+<div id="painel-progresso">
+    <div class="progresso-cabecalho">
+        <strong>🏆 PROGRESSO DA PROVA</strong>
+        <span id="texto-progresso">0 / 0</span>
+    </div>
+
+    <div class="trilho-progresso">
+        <div id="barra-acertos"></div>
+    </div>
+
+    <div class="checkpoints">
+
+    </div>
+</div>
         <div id="cronometro">Tempo: 00:00</div>
+
+
 
         <h3 id="pergunta"></h3>
         <div id="alternativas"></div>
+
+        <div id="painel-ajudas">
+            <h3>🎟️ Ajudas disponíveis: <span id="ajudas-restantes">3</span>/3</h3>
+            <div class="botoes-ajuda">
+                <button id="ajuda-daniel" type="button">👨‍💻 Daniel Breezy</button>
+                <button id="ajuda-professor" type="button">📞 Ligar ao professor</button>
+                <button id="ajuda-pular" type="button">⏭️ Pular pergunta</button>
+            </div>
+            <div id="mensagem-ajuda" hidden></div>
+        </div>
 
         <button id="proximo" disabled>PRÓXIMA PERGUNTA</button>
     </section>
@@ -67,7 +107,7 @@
     SIMULADOR MININT ANGOLA · 100% GRATUITO
 </footer>
 
-<script src="js/app.js?v=2"></script>
+<script src="js/app.js?v=9"></script>
 
 <footer id="criador-site">
     <div class="avatar-criador">DB</div>

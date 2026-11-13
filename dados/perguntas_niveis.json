@@ -6634,5 +6634,1667 @@
         "explicacao": "A imparcialidade exige ouvir as partes e avaliar os factos antes de formar uma conclusão."
       }
     ]
+  },
+  "extremo": {
+    "historia": [
+      {
+        "pergunta": "Qual opção distingue correctamente o início da luta armada da Independência Nacional?",
+        "alternativas": [
+          "A luta começou em 1975 e a independência em 1961",
+          "A luta armada começou em 1961 e a independência foi proclamada em 11 de Novembro de 1975",
+          "Ambos ocorreram em 1961",
+          "A luta começou em 2002 e a independência em 1975"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo indica 1961 como início da luta armada e 11 de Novembro de 1975 como data da independência."
+      },
+      {
+        "pergunta": "Quem proclamou a Independência Nacional de Angola?",
+        "alternativas": [
+          "Ngola Kiluanji",
+          "Nzinga Mbandi",
+          "Agostinho Neto",
+          "O Reino do Kongo"
+        ],
+        "correta": 2,
+        "explicacao": "Agostinho Neto proclamou a Independência Nacional."
+      },
+      {
+        "pergunta": "Qual é a relação histórica entre o título Ngola e o nome Angola?",
+        "alternativas": [
+          "Ngola era o nome de um movimento nacionalista",
+          "Ngola era um título associado aos soberanos do Ndongo, do qual deriva o nome Angola",
+          "Ngola era a antiga designação de Luanda",
+          "Ngola era o nome oficial do país após 1975"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo associa o título dos soberanos do Ndongo à origem do nome Angola."
+      },
+      {
+        "pergunta": "Qual conjunto apresenta exclusivamente antigos reinos mencionados no fascículo?",
+        "alternativas": [
+          "Kongo, Ndongo e Matamba",
+          "Kongo, Portugal e Matamba",
+          "Ndongo, MPLA e Matamba",
+          "Matamba, FNLA e Kongo"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo menciona os reinos do Kongo, Ndongo e Matamba."
+      },
+      {
+        "pergunta": "Nzinga Mbandi é apresentada como:",
+        "alternativas": [
+          "A primeira Presidente de Angola",
+          "Uma soberana do Ndongo e da Matamba e figura de resistência à expansão colonial portuguesa",
+          "Fundadora da UNITA",
+          "Responsável pelo Memorando do Luena"
+        ],
+        "correta": 1,
+        "explicacao": "Nzinga Mbandi foi uma importante soberana dos reinos do Ndongo e da Matamba."
+      },
+      {
+        "pergunta": "Quem foi um importante soberano do Ndongo e figura de resistência à presença portuguesa?",
+        "alternativas": [
+          "Agostinho Neto",
+          "Ngola Kiluanji",
+          "O primeiro Presidente da República",
+          "O fundador do MPLA"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo identifica Ngola Kiluanji como importante soberano do Ndongo."
+      },
+      {
+        "pergunta": "Qual potência europeia esteve envolvida na colonização de Angola?",
+        "alternativas": [
+          "França",
+          "Portugal",
+          "Alemanha",
+          "Inglaterra"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo identifica Portugal como potência colonizadora de Angola."
+      },
+      {
+        "pergunta": "A colonização corresponde ao domínio de um Estado sobre outro território e população nos planos:",
+        "alternativas": [
+          "Apenas cultural e religioso",
+          "Político, económico e social",
+          "Exclusivamente comercial",
+          "Apenas militar"
+        ],
+        "correta": 1,
+        "explicacao": "A definição do fascículo inclui domínio político, económico e social."
+      },
+      {
+        "pergunta": "O tráfico transatlântico de escravizados consistiu em:",
+        "alternativas": [
+          "Deslocação voluntária de trabalhadores",
+          "Captura, comércio e transporte forçado de pessoas escravizadas",
+          "Acordo político entre reinos africanos",
+          "Movimento de reconciliação nacional"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo descreve a captura, o comércio e o transporte forçado de pessoas escravizadas."
+      },
+      {
+        "pergunta": "Que cidade teve grande importância histórica no comércio atlântico em Angola?",
+        "alternativas": [
+          "Matamba",
+          "Ndongo",
+          "Luanda",
+          "Kongo"
+        ],
+        "correta": 2,
+        "explicacao": "Luanda é a cidade indicada no fascículo."
+      },
+      {
+        "pergunta": "Em que ano começou a luta armada de libertação nacional em Angola?",
+        "alternativas": [
+          "1956",
+          "1961",
+          "1974",
+          "1975"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo situa o início da luta armada em 1961."
+      },
+      {
+        "pergunta": "Quais foram os três principais movimentos nacionalistas envolvidos na luta de libertação?",
+        "alternativas": [
+          "MPLA, SIC e UNITA",
+          "FNLA, PNA e MPLA",
+          "MPLA, FNLA e UNITA",
+          "UNITA, SME e FNLA"
+        ],
+        "correta": 2,
+        "explicacao": "Os movimentos indicados são MPLA, FNLA e UNITA."
+      },
+      {
+        "pergunta": "O que significa MPLA?",
+        "alternativas": [
+          "Movimento Popular de Libertação de Angola",
+          "Movimento Político de Libertação Africana",
+          "Movimento Popular pela Liberdade Angolana",
+          "Movimento Patriótico de Libertação de Angola"
+        ],
+        "correta": 0,
+        "explicacao": "MPLA significa Movimento Popular de Libertação de Angola."
+      },
+      {
+        "pergunta": "Qual é a expansão correcta da sigla FNLA?",
+        "alternativas": [
+          "Frente Nacional para a Liberdade de Angola",
+          "Frente Nacional de Libertação de Angola",
+          "Força Nacional de Libertação Angolana",
+          "Frente Nacional de Luta de Angola"
+        ],
+        "correta": 1,
+        "explicacao": "FNLA significa Frente Nacional de Libertação de Angola."
+      },
+      {
+        "pergunta": "UNITA significa:",
+        "alternativas": [
+          "União Nacional para a Independência Total de Angola",
+          "União Nacional de Independência e Trabalho Angolano",
+          "Unidade Nacional para a Independência Territorial de Angola",
+          "União Nacional para a Integração Total de Angola"
+        ],
+        "correta": 0,
+        "explicacao": "A expansão indicada no fascículo é União Nacional para a Independência Total de Angola."
+      },
+      {
+        "pergunta": "Qual foi o primeiro Presidente da República Popular de Angola?",
+        "alternativas": [
+          "Ngola Kiluanji",
+          "Agostinho Neto",
+          "Nzinga Mbandi",
+          "José Eduardo dos Santos"
+        ],
+        "correta": 1,
+        "explicacao": "Agostinho Neto foi o primeiro Presidente da República Popular de Angola."
+      },
+      {
+        "pergunta": "Qual era a designação oficial de Angola imediatamente após a independência?",
+        "alternativas": [
+          "República de Angola",
+          "República Popular de Angola",
+          "Estado Unido de Angola",
+          "República Democrática do Ndongo"
+        ],
+        "correta": 1,
+        "explicacao": "Após a independência, o país passou a chamar-se República Popular de Angola."
+      },
+      {
+        "pergunta": "Em que ano terminou oficialmente a guerra civil angolana, segundo o fascículo?",
+        "alternativas": [
+          "1991",
+          "1992",
+          "2002",
+          "1975"
+        ],
+        "correta": 2,
+        "explicacao": "O fim oficial do conflito ocorreu em 2002."
+      },
+      {
+        "pergunta": "Que documento está associado ao fim oficial da guerra civil em 2002?",
+        "alternativas": [
+          "Acordo de Alvor",
+          "Memorando do Luena",
+          "Constituição de 2010",
+          "Tratado de Matamba"
+        ],
+        "correta": 1,
+        "explicacao": "O Memorando do Luena está associado ao fim oficial do conflito."
+      },
+      {
+        "pergunta": "O fim da guerra civil abriu caminho principalmente para:",
+        "alternativas": [
+          "A divisão definitiva do território",
+          "A paz e a reconstrução nacional",
+          "O regresso à administração colonial",
+          "A extinção das instituições nacionais"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo relaciona o fim do conflito com a paz e a reconstrução."
+      },
+      {
+        "pergunta": "A importância da paz para Angola está relacionada com:",
+        "alternativas": [
+          "A interrupção da vida institucional",
+          "A promoção da unidade, reconstrução e desenvolvimento",
+          "A eliminação da diversidade cultural",
+          "A substituição das instituições do Estado"
+        ],
+        "correta": 1,
+        "explicacao": "A paz favorece a unidade, a reconstrução e o desenvolvimento."
+      },
+      {
+        "pergunta": "A reconciliação nacional procura sobretudo:",
+        "alternativas": [
+          "Reforçar divisões históricas",
+          "Promover convivência pacífica, diálogo e superação de divisões",
+          "Impedir a participação dos cidadãos",
+          "Substituir a história nacional"
+        ],
+        "correta": 1,
+        "explicacao": "A reconciliação nacional procura a convivência pacífica, a unidade e o diálogo."
+      },
+      {
+        "pergunta": "O que se assinala em Angola no dia 4 de Fevereiro?",
+        "alternativas": [
+          "A Independência Nacional",
+          "O início da luta armada de libertação nacional",
+          "O Dia dos Heróis Nacionais",
+          "O fim da guerra civil"
+        ],
+        "correta": 1,
+        "explicacao": "O dia 4 de Fevereiro recorda o início da luta armada em 1961."
+      },
+      {
+        "pergunta": "O dia 17 de Setembro é celebrado em homenagem a:",
+        "alternativas": [
+          "Nzinga Mbandi",
+          "Ngola Kiluanji",
+          "Agostinho Neto",
+          "Todos os movimentos nacionalistas"
+        ],
+        "correta": 2,
+        "explicacao": "O Dia dos Heróis Nacionais, 17 de Setembro, homenageia Agostinho Neto."
+      },
+      {
+        "pergunta": "Que acontecimento ocorrido em Portugal em 25 de Abril de 1974 alterou o contexto político da descolonização?",
+        "alternativas": [
+          "A Revolução dos Cravos",
+          "O Memorando do Luena",
+          "A proclamação da República Popular",
+          "A luta armada de 1961"
+        ],
+        "correta": 0,
+        "explicacao": "A Revolução dos Cravos alterou o contexto político português e influenciou o processo de descolonização."
+      },
+      {
+        "pergunta": "Qual foi a finalidade histórica do Acordo de Alvor, em 1975?",
+        "alternativas": [
+          "Estabelecer bases para a transição de Angola à independência",
+          "Pôr fim à guerra civil em 2002",
+          "Criar os antigos reinos angolanos",
+          "Proclamar a independência em 1961"
+        ],
+        "correta": 0,
+        "explicacao": "O Acordo de Alvor estabeleceu bases para a transição à independência."
+      },
+      {
+        "pergunta": "A independência de Angola significou, no plano político:",
+        "alternativas": [
+          "A continuidade da dominação colonial",
+          "A formação de um Estado angolano soberano",
+          "A integração de Angola noutro Estado",
+          "O desaparecimento do território nacional"
+        ],
+        "correta": 1,
+        "explicacao": "A independência permitiu a formação de um Estado angolano soberano."
+      },
+      {
+        "pergunta": "A soberania nacional representa:",
+        "alternativas": [
+          "A submissão do Estado a outro país",
+          "O poder supremo do Estado no seu território e nas relações externas, nos termos da Constituição e da lei",
+          "A autoridade exclusiva de uma instituição privada",
+          "A ausência de normas jurídicas"
+        ],
+        "correta": 1,
+        "explicacao": "A soberania traduz o poder do Estado no plano interno e nas relações externas, nos termos legais."
+      },
+      {
+        "pergunta": "Qual é uma das principais funções da memória histórica nacional?",
+        "alternativas": [
+          "Apagar acontecimentos do passado",
+          "Compreender o passado, preservar a identidade e retirar aprendizagens",
+          "Substituir a Constituição",
+          "Impedir mudanças sociais"
+        ],
+        "correta": 1,
+        "explicacao": "A memória histórica ajuda a compreender o passado e preservar a identidade nacional."
+      },
+      {
+        "pergunta": "Por que razão o conhecimento dos antigos reinos angolanos é importante?",
+        "alternativas": [
+          "Porque substitui o estudo da história contemporânea",
+          "Porque permite conhecer sociedades, estruturas políticas e culturas anteriores à colonização",
+          "Porque demonstra que todos os reinos tinham a mesma organização",
+          "Porque elimina a importância da independência"
+        ],
+        "correta": 1,
+        "explicacao": "O estudo dos antigos reinos permite compreender as sociedades, culturas e formas de organização existentes."
+      }
+    ],
+    "administracao": [
+      {
+        "pergunta": "Qual é a finalidade essencial da Administração Pública?",
+        "alternativas": [
+          "Defender interesses particulares dos seus agentes",
+          "Prosseguir o interesse público e satisfazer necessidades colectivas nos termos da Constituição e da lei",
+          "Exercer funções legislativas e judiciais em simultâneo",
+          "Gerir exclusivamente actividades comerciais"
+        ],
+        "correta": 1,
+        "explicacao": "A Administração Pública prossegue o interesse público e satisfaz necessidades colectivas."
+      },
+      {
+        "pergunta": "Um funcionário público que toma decisões para beneficiar um familiar viola sobretudo o princípio da:",
+        "alternativas": [
+          "Imparcialidade",
+          "Hierarquia territorial",
+          "Desconcentração",
+          "Especialização técnica"
+        ],
+        "correta": 0,
+        "explicacao": "A imparcialidade exige que os agentes não favoreçam interesses particulares."
+      },
+      {
+        "pergunta": "Qual situação caracteriza melhor um conflito de interesses?",
+        "alternativas": [
+          "Um agente cumpre uma tarefa dentro das suas funções",
+          "Um interesse pessoal pode influenciar indevidamente uma decisão pública",
+          "Um serviço presta atendimento ao cidadão",
+          "Um funcionário participa numa formação profissional"
+        ],
+        "correta": 1,
+        "explicacao": "Existe conflito de interesses quando interesses pessoais podem afectar a decisão pública."
+      },
+      {
+        "pergunta": "A eficiência administrativa está principalmente associada:",
+        "alternativas": [
+          "À utilização adequada dos recursos para alcançar resultados",
+          "À realização de actividades sem objectivos definidos",
+          "Ao aumento de despesas sem avaliação",
+          "À quantidade de documentos produzidos, independentemente dos resultados"
+        ],
+        "correta": 0,
+        "explicacao": "Eficiência significa utilizar bem os recursos para obter resultados."
+      },
+      {
+        "pergunta": "A eficácia administrativa distingue-se da eficiência porque se concentra:",
+        "alternativas": [
+          "No cumprimento dos objectivos estabelecidos",
+          "Apenas na redução de despesas",
+          "Na quantidade de funcionários existentes",
+          "Na posição hierárquica do responsável"
+        ],
+        "correta": 0,
+        "explicacao": "Eficácia é alcançar os objectivos; eficiência é utilizar adequadamente os recursos."
+      },
+      {
+        "pergunta": "Um agente alcança os objectivos de um serviço, mas utiliza recursos de forma excessiva. Qual avaliação é mais adequada?",
+        "alternativas": [
+          "Foi eficaz, mas pode não ter sido eficiente",
+          "Foi eficiente, mas necessariamente ineficaz",
+          "Foi imparcial, mas ilegal",
+          "Foi disciplinado, mas sem responsabilidade"
+        ],
+        "correta": 0,
+        "explicacao": "Alcançar objectivos demonstra eficácia; o uso excessivo de recursos pode comprometer a eficiência."
+      },
+      {
+        "pergunta": "A responsabilidade disciplinar de um agente público pode surgir quando:",
+        "alternativas": [
+          "Cumpre correctamente as suas funções",
+          "Viola deveres funcionais sujeitos à disciplina administrativa",
+          "Participa numa actividade de formação",
+          "Atende um cidadão com respeito"
+        ],
+        "correta": 1,
+        "explicacao": "A violação dos deveres funcionais pode originar responsabilidade disciplinar."
+      },
+      {
+        "pergunta": "A responsabilidade civil está relacionada principalmente com:",
+        "alternativas": [
+          "A reparação de danos causados",
+          "A aplicação automática de uma pena criminal",
+          "A promoção hierárquica do funcionário",
+          "A organização dos serviços municipais"
+        ],
+        "correta": 0,
+        "explicacao": "A responsabilidade civil relaciona-se com a obrigação de reparar danos."
+      },
+      {
+        "pergunta": "A responsabilidade criminal distingue-se da disciplinar porque está relacionada com:",
+        "alternativas": [
+          "A prática de factos que constituem crime",
+          "Qualquer atraso no atendimento",
+          "A simples mudança de departamento",
+          "A participação numa reunião de serviço"
+        ],
+        "correta": 0,
+        "explicacao": "A responsabilidade criminal decorre da prática de um crime."
+      },
+      {
+        "pergunta": "Um funcionário recebe uma ordem hierárquica manifestamente ilegal. Segundo o princípio apresentado no fascículo, deve:",
+        "alternativas": [
+          "Executá-la sempre, sem avaliar a legalidade",
+          "Cumpri-la apenas se for verbal",
+          "Não executar a ordem manifestamente ilegal",
+          "Transferir automaticamente a decisão para um cidadão"
+        ],
+        "correta": 2,
+        "explicacao": "O fascículo indica que ordens manifestamente ilegais não devem ser executadas."
+      },
+      {
+        "pergunta": "O dever de obediência hierárquica deve ser entendido como:",
+        "alternativas": [
+          "Obrigação de cumprir qualquer ordem, mesmo ilegal",
+          "Cumprimento de ordens legítimas, dentro dos limites da lei",
+          "Autorização para ignorar os deveres funcionais",
+          "Substituição da responsabilidade individual"
+        ],
+        "correta": 1,
+        "explicacao": "A obediência hierárquica está limitada pela legalidade."
+      },
+      {
+        "pergunta": "Qual comportamento demonstra probidade no exercício de funções públicas?",
+        "alternativas": [
+          "Utilizar bens públicos para benefício próprio",
+          "Agir com honestidade e proteger os interesses públicos",
+          "Favorecer conhecidos em procedimentos administrativos",
+          "Ocultar irregularidades para proteger colegas"
+        ],
+        "correta": 1,
+        "explicacao": "A probidade exige honestidade e comportamento íntegro."
+      },
+      {
+        "pergunta": "O nepotismo na Administração Pública está associado:",
+        "alternativas": [
+          "À selecção baseada em critérios adequados",
+          "Ao favorecimento de familiares no exercício de decisões ou oportunidades públicas",
+          "À fiscalização dos recursos públicos",
+          "À formação contínua dos funcionários"
+        ],
+        "correta": 1,
+        "explicacao": "Nepotismo é o favorecimento de familiares em situações ligadas ao poder ou às funções públicas."
+      },
+      {
+        "pergunta": "A prestação de contas por parte de um agente público significa:",
+        "alternativas": [
+          "Responder pelos actos praticados e justificar a utilização dos recursos sob sua responsabilidade",
+          "Transferir toda a responsabilidade para os superiores",
+          "Evitar registar as decisões tomadas",
+          "Actuar sem apresentar justificações"
+        ],
+        "correta": 0,
+        "explicacao": "A prestação de contas envolve responsabilidade pelos actos e recursos utilizados."
+      },
+      {
+        "pergunta": "O controlo interno numa instituição pública tem como finalidade:",
+        "alternativas": [
+          "Impedir qualquer avaliação do trabalho",
+          "Acompanhar procedimentos, verificar actividades e contribuir para a responsabilidade administrativa",
+          "Substituir todas as leis aplicáveis",
+          "Eliminar a hierarquia dos serviços"
+        ],
+        "correta": 1,
+        "explicacao": "O controlo interno ajuda a acompanhar e verificar a actividade administrativa."
+      },
+      {
+        "pergunta": "Um agente público utiliza um veículo institucional para fins particulares. Que dever está a comprometer directamente?",
+        "alternativas": [
+          "Protecção e correcta utilização dos bens públicos",
+          "Descentralização administrativa",
+          "Separação de poderes",
+          "Organização territorial"
+        ],
+        "correta": 0,
+        "explicacao": "Os agentes devem proteger e utilizar correctamente os recursos e bens públicos."
+      },
+      {
+        "pergunta": "A pontualidade no serviço público deve ser entendida como:",
+        "alternativas": [
+          "Uma escolha pessoal sem relação com o serviço",
+          "Um dever profissional relacionado com o cumprimento dos horários e responsabilidades",
+          "Uma obrigação exclusiva dos responsáveis máximos",
+          "Uma regra aplicável apenas ao atendimento externo"
+        ],
+        "correta": 1,
+        "explicacao": "A pontualidade integra os deveres profissionais dos agentes públicos."
+      },
+      {
+        "pergunta": "Qual comportamento representa diligência profissional?",
+        "alternativas": [
+          "Adiar tarefas sem justificação",
+          "Executar as funções com cuidado, responsabilidade e atenção",
+          "Ignorar solicitações dos cidadãos",
+          "Transferir todas as tarefas para os colegas"
+        ],
+        "correta": 1,
+        "explicacao": "A diligência exige cuidado e responsabilidade no desempenho das funções."
+      },
+      {
+        "pergunta": "No atendimento público, a igualdade de tratamento exige que o agente:",
+        "alternativas": [
+          "Atenda primeiro os seus conhecidos",
+          "Trate os cidadãos sem favorecimentos ou discriminações indevidas",
+          "Dê prioridade permanente a pessoas influentes",
+          "Escolha quem merece receber o serviço"
+        ],
+        "correta": 1,
+        "explicacao": "A igualdade exige tratamento justo e sem favorecimentos indevidos."
+      },
+      {
+        "pergunta": "A urbanidade no atendimento corresponde a:",
+        "alternativas": [
+          "Utilizar linguagem agressiva para impor autoridade",
+          "Tratar os cidadãos com educação, respeito e cortesia",
+          "Evitar explicar procedimentos",
+          "Atender apenas pessoas conhecidas"
+        ],
+        "correta": 1,
+        "explicacao": "Urbanidade significa comportamento educado, respeitoso e cortês."
+      },
+      {
+        "pergunta": "A ética pública orienta o agente a:",
+        "alternativas": [
+          "Colocar os seus interesses acima dos colectivos",
+          "Agir com integridade, responsabilidade e respeito pelo interesse público",
+          "Favorecer pessoas próximas sempre que possível",
+          "Ignorar as consequências das suas decisões"
+        ],
+        "correta": 1,
+        "explicacao": "A ética pública orienta uma conduta íntegra e responsável."
+      },
+      {
+        "pergunta": "A formação contínua dos funcionários públicos contribui para:",
+        "alternativas": [
+          "Reduzir a capacidade de resposta dos serviços",
+          "Melhorar conhecimentos, competências e qualidade do serviço",
+          "Eliminar os deveres funcionais",
+          "Substituir a necessidade de cumprir a lei"
+        ],
+        "correta": 1,
+        "explicacao": "A formação contínua melhora as competências profissionais e o desempenho."
+      },
+      {
+        "pergunta": "O planeamento administrativo serve principalmente para:",
+        "alternativas": [
+          "Definir objectivos e organizar actividades e recursos",
+          "Impedir a avaliação dos resultados",
+          "Eliminar a responsabilidade dos gestores",
+          "Substituir os procedimentos legais"
+        ],
+        "correta": 0,
+        "explicacao": "O planeamento ajuda a definir objectivos e organizar os meios necessários."
+      },
+      {
+        "pergunta": "A gestão responsável dos recursos públicos pressupõe:",
+        "alternativas": [
+          "Utilização sem controlo",
+          "Utilização adequada, cuidadosa e orientada para o interesse público",
+          "Atribuição dos recursos por amizade",
+          "Ausência de registos e fiscalização"
+        ],
+        "correta": 1,
+        "explicacao": "Os recursos públicos devem ser geridos com responsabilidade e em benefício colectivo."
+      },
+      {
+        "pergunta": "Um agente que recebe vantagem indevida para favorecer determinado cidadão pratica uma conduta associada à:",
+        "alternativas": [
+          "Cortesia",
+          "Corrupção",
+          "Pontualidade",
+          "Formação contínua"
+        ],
+        "correta": 1,
+        "explicacao": "A obtenção de vantagem indevida em troca de favorecimento está associada à corrupção."
+      },
+      {
+        "pergunta": "O favoritismo diferencia-se de um procedimento imparcial porque:",
+        "alternativas": [
+          "Baseia-se em critérios iguais para todos",
+          "Privilegia determinadas pessoas sem justificação legítima",
+          "Respeita sempre o interesse colectivo",
+          "Impede qualquer conflito de interesses"
+        ],
+        "correta": 1,
+        "explicacao": "O favoritismo consiste em beneficiar certas pessoas indevidamente."
+      },
+      {
+        "pergunta": "Quando um agente público conhece uma irregularidade no serviço, a conduta responsável exige:",
+        "alternativas": [
+          "Ignorá-la para evitar problemas",
+          "Actuar pelos meios adequados, respeitando os procedimentos e a lei",
+          "Divulgá-la indiscriminadamente",
+          "Destruir os registos relacionados"
+        ],
+        "correta": 1,
+        "explicacao": "A responsabilidade exige tratamento adequado das irregularidades, respeitando os procedimentos legais."
+      },
+      {
+        "pergunta": "Por que razão os agentes que ocupam posições de maior autoridade devem ter especial cuidado na sua actuação?",
+        "alternativas": [
+          "Porque deixam de estar sujeitos à lei",
+          "Porque maior autoridade implica maior responsabilidade e prestação de contas",
+          "Porque podem transferir todos os seus deveres",
+          "Porque não precisam de fiscalização"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo relaciona maior autoridade com maior responsabilidade."
+      },
+      {
+        "pergunta": "Qual opção reúne os fundamentos da actuação de um agente público?",
+        "alternativas": [
+          "Interesse pessoal, favorecimento e poder ilimitado",
+          "Interesse público, Constituição, lei, ética e respeito pelos direitos",
+          "Obediência sem limites e ausência de responsabilidade",
+          "Vantagens particulares e decisões informais"
+        ],
+        "correta": 1,
+        "explicacao": "O agente deve servir o interesse público respeitando a Constituição, a lei, a ética e os direitos."
+      },
+      {
+        "pergunta": "A responsabilidade no serviço público significa que o agente deve:",
+        "alternativas": [
+          "Responder pelo cumprimento dos seus deveres e pelas decisões que toma",
+          "Executar tarefas sem prestar contas",
+          "Evitar assumir os resultados do seu trabalho",
+          "Transferir sempre os erros para os cidadãos"
+        ],
+        "correta": 0,
+        "explicacao": "A responsabilidade implica responder pelos deveres e actos praticados."
+      }
+    ],
+    "politica": [
+      {
+        "pergunta": "Qual afirmação traduz correctamente a posição da Constituição no ordenamento jurídico angolano?",
+        "alternativas": [
+          "É uma norma administrativa subordinada às decisões do Executivo",
+          "É a lei fundamental e ocupa posição suprema no ordenamento jurídico",
+          "É um regulamento interno dos tribunais",
+          "É uma norma aplicável apenas aos órgãos de soberania"
+        ],
+        "correta": 1,
+        "explicacao": "A Constituição é a lei fundamental e a norma suprema do Estado."
+      },
+      {
+        "pergunta": "A Constituição da República de Angola foi promulgada em:",
+        "alternativas": [
+          "11 de Novembro de 1975",
+          "4 de Fevereiro de 1961",
+          "5 de Fevereiro de 2010",
+          "17 de Setembro de 2010"
+        ],
+        "correta": 2,
+        "explicacao": "O fascículo indica 5 de Fevereiro de 2010 como data da promulgação da Constituição."
+      },
+      {
+        "pergunta": "Num Estado de Direito, o exercício do poder público deve estar subordinado:",
+        "alternativas": [
+          "À vontade individual dos titulares dos cargos",
+          "À Constituição e à lei",
+          "A decisões sem fundamento jurídico",
+          "A interesses particulares dos agentes"
+        ],
+        "correta": 1,
+        "explicacao": "No Estado de Direito, o poder público está sujeito à Constituição e à lei."
+      },
+      {
+        "pergunta": "Segundo o princípio da soberania popular, a titularidade do poder soberano pertence:",
+        "alternativas": [
+          "Ao Governo",
+          "Aos tribunais",
+          "Ao povo",
+          "Aos serviços administrativos"
+        ],
+        "correta": 2,
+        "explicacao": "A soberania pertence ao povo."
+      },
+      {
+        "pergunta": "Qual conjunto corresponde aos órgãos de soberania indicados no fascículo?",
+        "alternativas": [
+          "Presidente da República, Assembleia Nacional e Tribunais",
+          "Ministérios, Governos Provinciais e administrações municipais",
+          "Polícia, tribunais e serviços de migração",
+          "Assembleia Nacional, SIC e Serviço Penitenciário"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo identifica o Presidente da República, a Assembleia Nacional e os Tribunais."
+      },
+      {
+        "pergunta": "A função legislativa do Estado é exercida principalmente pela:",
+        "alternativas": [
+          "Assembleia Nacional",
+          "Polícia Nacional",
+          "Administração Municipal",
+          "Inspecção-Geral"
+        ],
+        "correta": 0,
+        "explicacao": "A Assembleia Nacional exerce o poder legislativo."
+      },
+      {
+        "pergunta": "Qual é a posição constitucional do Presidente da República?",
+        "alternativas": [
+          "Chefe exclusivo dos tribunais",
+          "Chefe de Estado",
+          "Titular da função legislativa da Assembleia",
+          "Responsável directo por todos os serviços municipais"
+        ],
+        "correta": 1,
+        "explicacao": "O Presidente da República é o Chefe de Estado."
+      },
+      {
+        "pergunta": "O exercício do poder executivo pelo Presidente da República é apoiado:",
+        "alternativas": [
+          "Pelos órgãos da Administração Pública, nos termos constitucionais",
+          "Exclusivamente pelos tribunais",
+          "Apenas pelas organizações privadas",
+          "Somente pelas administrações municipais"
+        ],
+        "correta": 0,
+        "explicacao": "O Presidente exerce o poder executivo com o auxílio dos órgãos da Administração Pública, nos termos da Constituição."
+      },
+      {
+        "pergunta": "Os tribunais exercem a função de:",
+        "alternativas": [
+          "Aprovar o Orçamento Geral do Estado",
+          "Administrar a justiça em nome do povo",
+          "Executar todas as políticas administrativas",
+          "Substituir a Assembleia Nacional"
+        ],
+        "correta": 1,
+        "explicacao": "Os tribunais administram a justiça em nome do povo."
+      },
+      {
+        "pergunta": "A separação de poderes procura:",
+        "alternativas": [
+          "Concentrar todas as funções num único órgão",
+          "Distribuir funções fundamentais do Estado por diferentes órgãos, com mecanismos de controlo",
+          "Eliminar a fiscalização entre órgãos",
+          "Subordinar os tribunais aos serviços administrativos"
+        ],
+        "correta": 1,
+        "explicacao": "A separação de poderes distribui funções e permite mecanismos de controlo e equilíbrio."
+      },
+      {
+        "pergunta": "Qual é a diferença fundamental entre um órgão de soberania e um órgão administrativo?",
+        "alternativas": [
+          "Ambos exercem necessariamente a mesma função",
+          "O órgão de soberania exerce competências constitucionais próprias, enquanto o administrativo executa funções da Administração Pública",
+          "O órgão administrativo está acima da Constituição",
+          "O órgão de soberania é sempre um serviço municipal"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo distingue os órgãos de soberania dos órgãos que desempenham funções administrativas."
+      },
+      {
+        "pergunta": "Uma norma aprovada por órgão competente, segundo o procedimento constitucional e legal, corresponde a:",
+        "alternativas": [
+          "Uma lei",
+          "Uma orientação informal",
+          "Uma decisão particular",
+          "Uma prática sem valor jurídico"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo apresenta a lei como norma aprovada por órgão competente segundo o procedimento legal."
+      },
+      {
+        "pergunta": "A Administração Pública integra órgãos, serviços e agentes que:",
+        "alternativas": [
+          "Exercem exclusivamente actividades privadas",
+          "Desempenham funções administrativas do Estado e prosseguem o interesse público",
+          "Substituem os órgãos judiciais",
+          "Exercem soberania sem limites legais"
+        ],
+        "correta": 1,
+        "explicacao": "A Administração Pública realiza funções administrativas e prossegue o interesse público."
+      },
+      {
+        "pergunta": "A Administração Local do Estado caracteriza-se por:",
+        "alternativas": [
+          "Ser constituída apenas por órgãos legislativos",
+          "Integrar serviços territoriais do Estado a nível local",
+          "Exercer exclusivamente funções judiciais",
+          "Não possuir ligação à Administração Central"
+        ],
+        "correta": 1,
+        "explicacao": "A Administração Local do Estado compreende serviços públicos territoriais."
+      },
+      {
+        "pergunta": "No contexto da organização territorial, a província, o município e a comuna são:",
+        "alternativas": [
+          "Órgãos de soberania",
+          "Unidades territoriais administrativas",
+          "Tribunais especializados",
+          "Movimentos políticos"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo identifica província, município e comuna como unidades territoriais administrativas."
+      },
+      {
+        "pergunta": "A descentralização administrativa consiste em:",
+        "alternativas": [
+          "Concentrar todas as decisões nos órgãos centrais",
+          "Transferir ou atribuir competências administrativas a entidades distintas, nos termos da lei",
+          "Distribuir tarefas apenas entre funcionários do mesmo serviço",
+          "Eliminar a responsabilidade dos órgãos públicos"
+        ],
+        "correta": 1,
+        "explicacao": "A descentralização atribui competências a entidades distintas, nos termos legais."
+      },
+      {
+        "pergunta": "Qual é a característica essencial da desconcentração administrativa?",
+        "alternativas": [
+          "Transferência de competências para entidades independentes da Administração",
+          "Distribuição de competências entre níveis da mesma Administração Pública",
+          "Extinção dos órgãos centrais",
+          "Transferência do poder judicial para os municípios"
+        ],
+        "correta": 1,
+        "explicacao": "Na desconcentração, as competências são distribuídas dentro da mesma Administração Pública."
+      },
+      {
+        "pergunta": "A diferença entre descentralização e desconcentração reside principalmente:",
+        "alternativas": [
+          "Na existência ou não de tribunais",
+          "Na atribuição de competências a entidades distintas ou na sua distribuição dentro da mesma Administração",
+          "Na diferença entre leis e regulamentos",
+          "Na separação entre províncias e países"
+        ],
+        "correta": 1,
+        "explicacao": "A descentralização envolve entidades distintas; a desconcentração ocorre dentro da mesma Administração."
+      },
+      {
+        "pergunta": "Quando as principais decisões administrativas permanecem concentradas nos órgãos centrais, verifica-se:",
+        "alternativas": [
+          "Descentralização",
+          "Desconcentração",
+          "Centralização",
+          "Tutela administrativa"
+        ],
+        "correta": 2,
+        "explicacao": "A centralização concentra as principais decisões nos órgãos centrais."
+      },
+      {
+        "pergunta": "O princípio da legalidade exige que a Administração Pública:",
+        "alternativas": [
+          "Actue conforme a vontade pessoal do agente",
+          "Actue dentro dos limites estabelecidos pela Constituição e pela lei",
+          "Ignore normas quando procura rapidez",
+          "Substitua as leis por orientações verbais"
+        ],
+        "correta": 1,
+        "explicacao": "A Administração Pública deve respeitar a Constituição e a lei."
+      },
+      {
+        "pergunta": "A prossecução do interesse público significa que a actuação administrativa deve:",
+        "alternativas": [
+          "Privilegiar interesses particulares",
+          "Orientar-se para as necessidades e benefícios colectivos",
+          "Favorecer pessoas conhecidas dos funcionários",
+          "Evitar o contacto com os cidadãos"
+        ],
+        "correta": 1,
+        "explicacao": "O interesse público orienta a actividade da Administração Pública."
+      },
+      {
+        "pergunta": "O princípio da igualdade perante a lei impede que a Administração:",
+        "alternativas": [
+          "Aplique normas gerais",
+          "Trate situações equivalentes de forma arbitrariamente diferente",
+          "Respeite os direitos dos cidadãos",
+          "Cumpra os procedimentos legais"
+        ],
+        "correta": 1,
+        "explicacao": "A igualdade perante a lei exige tratamento não discriminatório."
+      },
+      {
+        "pergunta": "A cidadania angolana, no sentido jurídico apresentado no fascículo, corresponde:",
+        "alternativas": [
+          "A uma preferência cultural individual",
+          "A um vínculo ou estatuto jurídico que liga a pessoa ao Estado angolano",
+          "A uma função administrativa",
+          "A uma autorização temporária de residência"
+        ],
+        "correta": 1,
+        "explicacao": "A cidadania é um estatuto jurídico de ligação entre a pessoa e o Estado."
+      },
+      {
+        "pergunta": "O território nacional está relacionado com:",
+        "alternativas": [
+          "O espaço sobre o qual o Estado exerce a sua autoridade e soberania",
+          "Apenas a área das administrações municipais",
+          "O conjunto de instituições privadas",
+          "O espaço pertencente a outros Estados"
+        ],
+        "correta": 0,
+        "explicacao": "O território nacional é o espaço sobre o qual o Estado exerce a sua autoridade."
+      },
+      {
+        "pergunta": "A integridade territorial pressupõe:",
+        "alternativas": [
+          "A divisão arbitrária do território",
+          "A preservação da unidade e da integridade do território nacional",
+          "A transferência da soberania para entidades privadas",
+          "A eliminação das unidades administrativas"
+        ],
+        "correta": 1,
+        "explicacao": "A integridade territorial relaciona-se com a preservação da unidade do território nacional."
+      },
+      {
+        "pergunta": "Uma instituição pública distingue-se de uma instituição privada principalmente pela sua ligação:",
+        "alternativas": [
+          "À prossecução de funções e interesses públicos",
+          "À obtenção obrigatória de lucro",
+          "À ausência de normas legais",
+          "A interesses exclusivamente familiares"
+        ],
+        "correta": 0,
+        "explicacao": "A instituição pública está ligada à realização de funções e interesses públicos."
+      },
+      {
+        "pergunta": "A competência administrativa corresponde:",
+        "alternativas": [
+          "À liberdade ilimitada de qualquer funcionário",
+          "Ao conjunto de poderes e atribuições legalmente conferidos a um órgão ou agente",
+          "À capacidade de ignorar ordens superiores",
+          "À autoridade de decidir fora da lei"
+        ],
+        "correta": 1,
+        "explicacao": "A competência administrativa é definida por poderes e atribuições estabelecidos legalmente."
+      },
+      {
+        "pergunta": "O princípio da hierarquia administrativa está relacionado com:",
+        "alternativas": [
+          "A organização de órgãos e serviços em níveis de autoridade e subordinação",
+          "A independência absoluta de todos os funcionários",
+          "A ausência de coordenação entre serviços",
+          "A substituição da lei por decisões pessoais"
+        ],
+        "correta": 0,
+        "explicacao": "A hierarquia organiza os serviços segundo níveis de autoridade e subordinação."
+      },
+      {
+        "pergunta": "A tutela administrativa corresponde, em termos gerais, a:",
+        "alternativas": [
+          "Uma forma de direcção e supervisão exercida nos termos da lei",
+          "Uma autorização para actuar fora da Constituição",
+          "Uma função exclusiva dos tribunais",
+          "Uma relação de propriedade privada"
+        ],
+        "correta": 0,
+        "explicacao": "A tutela administrativa envolve poderes de supervisão e controlo nos termos legais."
+      },
+      {
+        "pergunta": "A transparência na actividade pública exige:",
+        "alternativas": [
+          "Ocultar todas as decisões administrativas",
+          "Actuação clara e responsável, respeitando os limites legais",
+          "Divulgar indiscriminadamente qualquer informação protegida",
+          "Favorecer decisões sem fundamentação"
+        ],
+        "correta": 1,
+        "explicacao": "A transparência exige clareza e responsabilidade, sem afastar os limites legais."
+      }
+    ],
+    "minint": [
+      {
+        "pergunta": "Qual formulação descreve com maior precisão a missão geral do MININT?",
+        "alternativas": [
+          "Executar exclusivamente operações policiais",
+          "Formular, coordenar, executar e avaliar políticas do Executivo em matéria de ordem interna e segurança pública",
+          "Administrar apenas os tribunais e o sistema judicial",
+          "Gerir exclusivamente as instituições penitenciárias"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo atribui ao MININT funções de formulação, coordenação, execução e avaliação da política do Executivo em matéria de ordem interna e segurança pública."
+      },
+      {
+        "pergunta": "Qual conjunto apresenta serviços executivos directos do MININT mencionados no fascículo?",
+        "alternativas": [
+          "PNA, SIC, SME, Serviço Penitenciário e SPCB",
+          "PNA, Assembleia Nacional, SIC e Tribunais",
+          "SME, Governo Provincial, Tribunais e SPCB",
+          "SIC, Ministério da Justiça, PNA e Assembleia Nacional"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo identifica a PNA, o SIC, o SME, o Serviço Penitenciário e o SPCB."
+      },
+      {
+        "pergunta": "Qual é a distinção correcta entre a PNA e o SIC?",
+        "alternativas": [
+          "A PNA trata da migração e o SIC da protecção civil",
+          "A PNA actua na segurança e ordem pública, enquanto o SIC realiza investigação criminal",
+          "A PNA executa penas e o SIC administra fronteiras",
+          "Ambos têm como função exclusiva a gestão penitenciária"
+        ],
+        "correta": 1,
+        "explicacao": "A PNA está ligada à segurança e ordem pública; o SIC à investigação criminal."
+      },
+      {
+        "pergunta": "A sigla PNA corresponde a:",
+        "alternativas": [
+          "Polícia Nacional Angolana",
+          "Polícia Nacional de Angola",
+          "Polícia Nacional Administrativa",
+          "Polícia de Negócios Angolanos"
+        ],
+        "correta": 1,
+        "explicacao": "PNA significa Polícia Nacional de Angola."
+      },
+      {
+        "pergunta": "O Serviço de Investigação Criminal é identificado pela sigla:",
+        "alternativas": [
+          "SME",
+          "SPCB",
+          "SIC",
+          "PNA"
+        ],
+        "correta": 2,
+        "explicacao": "SIC significa Serviço de Investigação Criminal."
+      },
+      {
+        "pergunta": "Qual serviço tem atribuições relacionadas com a entrada, trânsito, saída e residência de cidadãos estrangeiros?",
+        "alternativas": [
+          "Serviço Penitenciário",
+          "Serviço de Migração e Estrangeiros",
+          "Polícia Nacional de Angola",
+          "Serviço de Investigação Criminal"
+        ],
+        "correta": 1,
+        "explicacao": "O SME trata das matérias de entrada, trânsito, saída e residência de cidadãos estrangeiros."
+      },
+      {
+        "pergunta": "A função central do Serviço Penitenciário consiste em:",
+        "alternativas": [
+          "Investigar todos os crimes de natureza económica",
+          "Executar medidas privativas de liberdade determinadas pelos tribunais competentes",
+          "Controlar a entrada de estrangeiros",
+          "Coordenar todas as operações de protecção civil"
+        ],
+        "correta": 1,
+        "explicacao": "O Serviço Penitenciário executa medidas privativas de liberdade determinadas pelos tribunais."
+      },
+      {
+        "pergunta": "O SPCB está directamente associado a:",
+        "alternativas": [
+          "Investigação criminal e instrução processual",
+          "Protecção Civil e Bombeiros",
+          "Migração e controlo de estrangeiros",
+          "Execução de penas judiciais"
+        ],
+        "correta": 1,
+        "explicacao": "SPCB significa Serviço de Protecção Civil e Bombeiros."
+      },
+      {
+        "pergunta": "Qual alternativa distingue correctamente prevenção criminal de repressão criminal?",
+        "alternativas": [
+          "Prevenção actua para evitar ou reduzir crimes; repressão envolve a investigação e o combate legal aos crimes ocorridos ou em curso",
+          "Prevenção aplica penas; repressão concede autorizações de residência",
+          "Prevenção é exclusivamente judicial; repressão é exclusivamente administrativa",
+          "Ambas significam apenas patrulhamento policial"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo distingue medidas preventivas das acções legais de investigação e combate ao crime."
+      },
+      {
+        "pergunta": "Quando o SIC realiza actos de investigação relacionados com indícios de crime, está a cumprir uma função de:",
+        "alternativas": [
+          "Gestão migratória",
+          "Investigação criminal",
+          "Execução penitenciária",
+          "Administração territorial"
+        ],
+        "correta": 1,
+        "explicacao": "A investigação de indícios de crime integra as atribuições do SIC."
+      },
+      {
+        "pergunta": "A prisão preventiva, conforme a descrição do fascículo, corresponde a:",
+        "alternativas": [
+          "Uma pena definitiva aplicada após condenação",
+          "Uma medida de privação da liberdade no âmbito do processo penal antes da condenação definitiva",
+          "Uma autorização para cumprir pena fora do país",
+          "Uma medida administrativa de controlo migratório"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo apresenta a prisão preventiva como medida anterior à condenação definitiva, no âmbito do processo penal."
+      },
+      {
+        "pergunta": "A liberdade condicional distingue-se da prisão preventiva porque está relacionada com:",
+        "alternativas": [
+          "A execução da pena, podendo permitir que parte seja cumprida em liberdade sob condições",
+          "A investigação inicial de indícios criminais",
+          "A entrada de estrangeiros no território",
+          "A prevenção de incêndios"
+        ],
+        "correta": 0,
+        "explicacao": "A liberdade condicional pode permitir o cumprimento de parte da pena em liberdade, sob condições legais."
+      },
+      {
+        "pergunta": "Qual é a finalidade da reinserção social no contexto penitenciário?",
+        "alternativas": [
+          "Impedir permanentemente o regresso do condenado à sociedade",
+          "Contribuir para a reabilitação e integração social da pessoa privada de liberdade",
+          "Substituir a decisão dos tribunais",
+          "Eliminar a responsabilidade pelo cumprimento da pena"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo associa o sistema penitenciário à reabilitação e reinserção social."
+      },
+      {
+        "pergunta": "A Protecção Civil tem como orientação principal:",
+        "alternativas": [
+          "Investigar crimes e identificar suspeitos",
+          "Prevenir riscos, proteger pessoas e bens e responder a emergências e catástrofes",
+          "Controlar exclusivamente a residência de estrangeiros",
+          "Executar decisões judiciais de privação da liberdade"
+        ],
+        "correta": 1,
+        "explicacao": "A Protecção Civil previne riscos, protege pessoas e bens e responde a emergências e catástrofes."
+      },
+      {
+        "pergunta": "Uma operação de salvamento em situação de emergência enquadra-se directamente nas funções de:",
+        "alternativas": [
+          "Protecção Civil e Bombeiros",
+          "Serviço de Migração e Estrangeiros",
+          "Serviço Penitenciário",
+          "Assembleia Nacional"
+        ],
+        "correta": 0,
+        "explicacao": "O SPCB participa na protecção, no socorro e na resposta a emergências."
+      },
+      {
+        "pergunta": "Qual é a principal diferença entre ordem pública e tranquilidade pública?",
+        "alternativas": [
+          "Ordem pública relaciona-se com a normalidade social e o respeito pelas regras; tranquilidade pública refere-se à convivência pacífica sem perturbações ilícitas",
+          "Ordem pública trata apenas de incêndios; tranquilidade pública trata apenas de migração",
+          "Ambas são competências exclusivas dos tribunais",
+          "Tranquilidade pública significa ausência de instituições"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo relaciona a ordem pública com a normalidade social e o respeito pelas regras, e a tranquilidade com a convivência pacífica."
+      },
+      {
+        "pergunta": "A segurança pública, no contexto das funções do MININT, visa principalmente:",
+        "alternativas": [
+          "Proteger a colectividade, a ordem e a tranquilidade nos termos da lei",
+          "Substituir a função dos tribunais",
+          "Gerir exclusivamente os recursos financeiros do Estado",
+          "Regular apenas as relações comerciais"
+        ],
+        "correta": 0,
+        "explicacao": "A segurança pública protege a colectividade, a ordem e a tranquilidade, dentro da lei."
+      },
+      {
+        "pergunta": "Uma situação que exige resposta rápida para proteger pessoas e bens enquadra-se no conceito de:",
+        "alternativas": [
+          "Emergência",
+          "Tutela administrativa",
+          "Descentralização",
+          "Gestão migratória"
+        ],
+        "correta": 0,
+        "explicacao": "Uma emergência exige resposta rápida para proteger pessoas e bens."
+      },
+      {
+        "pergunta": "Na estrutura superior de direcção do MININT, o fascículo identifica:",
+        "alternativas": [
+          "O Ministro e os Secretários de Estado",
+          "Os administradores municipais e os tribunais",
+          "Os comandantes provinciais e os deputados",
+          "Os directores escolares e os governadores"
+        ],
+        "correta": 0,
+        "explicacao": "O Ministro e os Secretários de Estado integram os órgãos de direcção superior mencionados."
+      },
+      {
+        "pergunta": "Qual é a função geral dos órgãos de apoio consultivo do MININT?",
+        "alternativas": [
+          "Substituir todos os serviços executivos",
+          "Apoiar a apreciação e aconselhamento em matérias institucionais",
+          "Executar directamente todas as operações policiais",
+          "Aplicar decisões judiciais"
+        ],
+        "correta": 1,
+        "explicacao": "Os órgãos consultivos apoiam a apreciação e o aconselhamento institucional."
+      },
+      {
+        "pergunta": "Qual conjunto corresponde aos órgãos de apoio consultivo mencionados no fascículo?",
+        "alternativas": [
+          "Conselho Consultivo e Conselho Superior de Quadros",
+          "PNA e SIC",
+          "SME e Serviço Penitenciário",
+          "Delegações Provinciais e Municipais"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo menciona o Conselho Consultivo e o Conselho Superior de Quadros."
+      },
+      {
+        "pergunta": "Os serviços executivos directos distinguem-se dos serviços de apoio técnico porque:",
+        "alternativas": [
+          "Executam atribuições específicas do Ministério, enquanto os serviços de apoio prestam suporte técnico e institucional",
+          "Os primeiros não pertencem à estrutura do Ministério",
+          "Os segundos exercem exclusivamente funções judiciais",
+          "Ambos têm necessariamente as mesmas atribuições"
+        ],
+        "correta": 0,
+        "explicacao": "Os serviços executivos realizam missões específicas; os de apoio técnico dão suporte à estrutura."
+      },
+      {
+        "pergunta": "A Inspecção-Geral, na estrutura descrita, é classificada como:",
+        "alternativas": [
+          "Serviço executivo de migração",
+          "Serviço de apoio técnico com funções de inspecção",
+          "Órgão de soberania",
+          "Delegação municipal"
+        ],
+        "correta": 1,
+        "explicacao": "O fascículo inclui a Inspecção-Geral nos serviços de apoio técnico."
+      },
+      {
+        "pergunta": "A Direcção de Recursos Humanos tem como área principal de actuação:",
+        "alternativas": [
+          "A gestão do pessoal",
+          "A investigação criminal",
+          "O controlo das fronteiras",
+          "O combate a incêndios"
+        ],
+        "correta": 0,
+        "explicacao": "A Direcção de Recursos Humanos gere matérias relacionadas com o pessoal."
+      },
+      {
+        "pergunta": "A Direcção de Planeamento e Finanças presta apoio sobretudo em matéria de:",
+        "alternativas": [
+          "Investigação e instrução criminal",
+          "Planeamento e gestão financeira",
+          "Execução de penas",
+          "Salvamento e socorro"
+        ],
+        "correta": 1,
+        "explicacao": "A sua função de apoio está ligada ao planeamento e à gestão financeira."
+      },
+      {
+        "pergunta": "O apoio das tecnologias de informação no MININT contribui para:",
+        "alternativas": [
+          "Comunicação, gestão da informação e modernização dos serviços",
+          "Substituição das competências legais dos tribunais",
+          "Eliminação dos registos institucionais",
+          "Suspensão da coordenação entre órgãos"
+        ],
+        "correta": 0,
+        "explicacao": "As tecnologias de informação apoiam a comunicação, a informação e a modernização."
+      },
+      {
+        "pergunta": "O Gabinete Jurídico presta apoio institucional principalmente através de:",
+        "alternativas": [
+          "Aconselhamento e suporte técnico-jurídico",
+          "Gestão directa das unidades penitenciárias",
+          "Controlo da entrada de estrangeiros",
+          "Coordenação das operações de salvamento"
+        ],
+        "correta": 0,
+        "explicacao": "O Gabinete Jurídico assegura apoio técnico na área jurídica."
+      },
+      {
+        "pergunta": "As Delegações Provinciais e Municipais do MININT são consideradas:",
+        "alternativas": [
+          "Serviços executivos locais",
+          "Órgãos de soberania",
+          "Instituições privadas",
+          "Órgãos judiciais"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo identifica as Delegações Provinciais e Municipais como serviços executivos locais."
+      },
+      {
+        "pergunta": "A Delegação Provincial do MININT tem como função:",
+        "alternativas": [
+          "Representar e executar as funções do Ministério ao nível provincial",
+          "Legislar para todo o território nacional",
+          "Substituir os tribunais provinciais",
+          "Dirigir exclusivamente os serviços municipais"
+        ],
+        "correta": 0,
+        "explicacao": "A Delegação Provincial representa e executa as funções do Ministério na província."
+      },
+      {
+        "pergunta": "A superintendência de um serviço, no contexto institucional apresentado, corresponde a:",
+        "alternativas": [
+          "Direcção e supervisão nos termos da lei",
+          "Independência absoluta de qualquer controlo",
+          "Transferência automática de soberania",
+          "Ausência de responsabilidade institucional"
+        ],
+        "correta": 0,
+        "explicacao": "O fascículo relaciona a superintendência com direcção e supervisão nos termos legais."
+      }
+    ],
+    "cidadania": [
+      {
+        "pergunta": "Qual alternativa traduz melhor o patriotismo no exercício de funções públicas?",
+        "alternativas": [
+          "Defender interesses pessoais acima dos coletivos.",
+          "Servir com legalidade, responsabilidade e respeito pelas instituições.",
+          "Obedecer a qualquer ordem, mesmo que contrarie a lei.",
+          "Demonstrar lealdade apenas através de palavras."
+        ],
+        "correta": 1,
+        "explicacao": "O patriotismo no serviço público manifesta-se através de um serviço responsável, legal e orientado pelo interesse público."
+      },
+      {
+        "pergunta": "O patriotismo deve ser entendido como:",
+        "alternativas": [
+          "Um sentimento sem relação com os deveres dos cidadãos.",
+          "Uma obrigação exclusiva dos agentes de segurança.",
+          "Amor, respeito e dedicação à pátria, demonstrados também por ações.",
+          "Uma autorização para ignorar as leis em defesa do país."
+        ],
+        "correta": 2,
+        "explicacao": "O patriotismo envolve sentimentos e comportamentos concretos de respeito e dedicação à pátria."
+      },
+      {
+        "pergunta": "Qual conjunto apresenta exclusivamente os símbolos nacionais mencionados no fascículo?",
+        "alternativas": [
+          "Bandeira Nacional, Insígnia da República e Hino Nacional.",
+          "Bandeira Nacional, Constituição e Hino Nacional.",
+          "Insígnia da República, território e soberania.",
+          "Hino Nacional, instituições e unidade nacional."
+        ],
+        "correta": 0,
+        "explicacao": "Os três símbolos nacionais são a Bandeira Nacional, a Insígnia da República e o Hino Nacional."
+      },
+      {
+        "pergunta": "Um cidadão demonstra respeito pelos símbolos nacionais quando:",
+        "alternativas": [
+          "Os utiliza apenas em cerimónias oficiais.",
+          "Reconhece a sua importância como referências de identidade e soberania.",
+          "Considera que representam somente os órgãos administrativos.",
+          "Os substitui pelas suas preferências pessoais."
+        ],
+        "correta": 1,
+        "explicacao": "Os símbolos nacionais representam a identidade, a soberania e os valores da República."
+      },
+      {
+        "pergunta": "Qual afirmação estabelece correctamente a relação entre patriotismo e legalidade?",
+        "alternativas": [
+          "O patriotismo permite ultrapassar os limites da lei.",
+          "A defesa da pátria dispensa o respeito pelas instituições.",
+          "O patriotismo exige respeito pela Constituição e pelas leis.",
+          "A legalidade só deve ser respeitada em tempos de paz."
+        ],
+        "correta": 2,
+        "explicacao": "O patriotismo não justifica a violação da lei; deve ser exercido com respeito pela Constituição e pelas instituições."
+      },
+      {
+        "pergunta": "A soberania nacional está principalmente relacionada com:",
+        "alternativas": [
+          "A capacidade de um Estado exercer o seu poder sem subordinação política a outro Estado.",
+          "A liberdade individual de ignorar as instituições.",
+          "A substituição das leis nacionais por decisões particulares.",
+          "A concentração de todas as atividades nos cidadãos."
+        ],
+        "correta": 0,
+        "explicacao": "A soberania representa o poder supremo do Estado no seu território e nas suas relações externas."
+      },
+      {
+        "pergunta": "A unidade nacional deve ser construída através de:",
+        "alternativas": [
+          "Eliminação das diferenças culturais.",
+          "Imposição de opiniões individuais.",
+          "Respeito pela diversidade e compromisso com objetivos comuns.",
+          "Separação dos cidadãos segundo as suas diferenças."
+        ],
+        "correta": 2,
+        "explicacao": "A unidade nacional promove a coesão, respeitando a diversidade existente na sociedade."
+      },
+      {
+        "pergunta": "Qual é a relação mais adequada entre paz e reconciliação nacional?",
+        "alternativas": [
+          "A reconciliação substitui a necessidade de convivência pacífica.",
+          "A paz favorece o diálogo, a convivência e a superação das divisões.",
+          "A paz depende da ausência de participação dos cidadãos.",
+          "A reconciliação exige que todos tenham opiniões idênticas."
+        ],
+        "correta": 1,
+        "explicacao": "A reconciliação nacional promove diálogo, unidade e coexistência pacífica."
+      },
+      {
+        "pergunta": "Um cidadão contribui para o desenvolvimento do país quando:",
+        "alternativas": [
+          "Participa de forma construtiva e cumpre os seus deveres.",
+          "Coloca sempre os interesses particulares em primeiro lugar.",
+          "Desrespeita os bens públicos quando discorda das instituições.",
+          "Evita qualquer responsabilidade na comunidade."
+        ],
+        "correta": 0,
+        "explicacao": "O cidadão contribui para o bem comum através do estudo, trabalho, responsabilidade e participação construtiva."
+      },
+      {
+        "pergunta": "No serviço público, servir a pátria significa essencialmente:",
+        "alternativas": [
+          "Procurar benefícios pessoais através do cargo.",
+          "Executar tarefas sem considerar os direitos dos cidadãos.",
+          "Colocar capacidades e esforços ao serviço do bem comum, dentro da lei.",
+          "Defender exclusivamente os interesses da instituição."
+        ],
+        "correta": 2,
+        "explicacao": "Servir a pátria implica contribuir para o bem comum, respeitando a lei e os direitos dos cidadãos."
+      },
+      {
+        "pergunta": "Qual comportamento melhor demonstra honestidade no exercício de funções públicas?",
+        "alternativas": [
+          "Favorecer familiares quando existe oportunidade.",
+          "Rejeitar a corrupção e agir com integridade.",
+          "Ocultar irregularidades para proteger colegas.",
+          "Utilizar recursos públicos para necessidades particulares."
+        ],
+        "correta": 1,
+        "explicacao": "A honestidade exige integridade e rejeição de práticas corruptas."
+      },
+      {
+        "pergunta": "A solidariedade entre cidadãos contribui para:",
+        "alternativas": [
+          "Aumentar as divisões sociais.",
+          "Substituir todas as responsabilidades do Estado.",
+          "Fortalecer a convivência e o compromisso com a comunidade.",
+          "Eliminar a diversidade cultural."
+        ],
+        "correta": 2,
+        "explicacao": "A solidariedade fortalece a convivência social e o compromisso com o bem comum."
+      },
+      {
+        "pergunta": "Por que razão os jovens devem conhecer a história nacional?",
+        "alternativas": [
+          "Para compreender o passado, preservar a identidade e aprender com a história.",
+          "Para substituir o conhecimento das instituições.",
+          "Para evitar a participação na sociedade.",
+          "Para considerar que a história não tem relação com o presente."
+        ],
+        "correta": 0,
+        "explicacao": "Conhecer a história ajuda a preservar a memória nacional e a compreender a evolução da sociedade."
+      },
+      {
+        "pergunta": "Qual das opções representa uma manifestação de respeito pelas instituições nacionais?",
+        "alternativas": [
+          "Desconsiderar as normas quando não são convenientes.",
+          "Respeitar a Constituição, as leis e as instituições da República.",
+          "Confundir patriotismo com obediência sem limites.",
+          "Colocar interesses particulares acima da legalidade."
+        ],
+        "correta": 1,
+        "explicacao": "O respeito pelas instituições deve estar associado à Constituição, à legalidade e à responsabilidade cívica."
+      },
+      {
+        "pergunta": "Um agente público que age com patriotismo deve orientar a sua conduta principalmente por:",
+        "alternativas": [
+          "Interesses pessoais, favoritismo e conveniência.",
+          "Lealdade pessoal acima das normas.",
+          "Constituição, legalidade, respeito pelos cidadãos e interesse público.",
+          "Obediência a qualquer decisão, independentemente da sua legalidade."
+        ],
+        "correta": 2,
+        "explicacao": "O serviço patriótico exige responsabilidade, integridade, respeito pelos cidadãos e compromisso com o interesse público."
+      },
+      {
+        "pergunta": "Qual alternativa traduz melhor o patriotismo no exercício de funções públicas?",
+        "alternativas": [
+          "Defender interesses pessoais acima dos coletivos.",
+          "Servir com legalidade, responsabilidade e respeito pelas instituições.",
+          "Obedecer a qualquer ordem, mesmo que contrarie a lei.",
+          "Demonstrar lealdade apenas através de palavras."
+        ],
+        "correta": 1,
+        "explicacao": "O patriotismo no serviço público manifesta-se através de um serviço responsável, legal e orientado pelo interesse público."
+      },
+      {
+        "pergunta": "O patriotismo deve ser entendido como:",
+        "alternativas": [
+          "Um sentimento sem relação com os deveres dos cidadãos.",
+          "Uma obrigação exclusiva dos agentes de segurança.",
+          "Amor, respeito e dedicação à pátria, demonstrados também por ações.",
+          "Uma autorização para ignorar as leis em defesa do país."
+        ],
+        "correta": 2,
+        "explicacao": "O patriotismo envolve sentimentos e comportamentos concretos de respeito e dedicação à pátria."
+      },
+      {
+        "pergunta": "Qual conjunto apresenta exclusivamente os símbolos nacionais mencionados no fascículo?",
+        "alternativas": [
+          "Bandeira Nacional, Insígnia da República e Hino Nacional.",
+          "Bandeira Nacional, Constituição e Hino Nacional.",
+          "Insígnia da República, território e soberania.",
+          "Hino Nacional, instituições e unidade nacional."
+        ],
+        "correta": 0,
+        "explicacao": "Os três símbolos nacionais são a Bandeira Nacional, a Insígnia da República e o Hino Nacional."
+      },
+      {
+        "pergunta": "Um cidadão demonstra respeito pelos símbolos nacionais quando:",
+        "alternativas": [
+          "Os utiliza apenas em cerimónias oficiais.",
+          "Reconhece a sua importância como referências de identidade e soberania.",
+          "Considera que representam somente os órgãos administrativos.",
+          "Os substitui pelas suas preferências pessoais."
+        ],
+        "correta": 1,
+        "explicacao": "Os símbolos nacionais representam a identidade, a soberania e os valores da República."
+      },
+      {
+        "pergunta": "Qual afirmação estabelece correctamente a relação entre patriotismo e legalidade?",
+        "alternativas": [
+          "O patriotismo permite ultrapassar os limites da lei.",
+          "A defesa da pátria dispensa o respeito pelas instituições.",
+          "O patriotismo exige respeito pela Constituição e pelas leis.",
+          "A legalidade só deve ser respeitada em tempos de paz."
+        ],
+        "correta": 2,
+        "explicacao": "O patriotismo não justifica a violação da lei; deve ser exercido com respeito pela Constituição e pelas instituições."
+      },
+      {
+        "pergunta": "A soberania nacional está principalmente relacionada com:",
+        "alternativas": [
+          "A capacidade de um Estado exercer o seu poder sem subordinação política a outro Estado.",
+          "A liberdade individual de ignorar as instituições.",
+          "A substituição das leis nacionais por decisões particulares.",
+          "A concentração de todas as atividades nos cidadãos."
+        ],
+        "correta": 0,
+        "explicacao": "A soberania representa o poder supremo do Estado no seu território e nas suas relações externas."
+      },
+      {
+        "pergunta": "A unidade nacional deve ser construída através de:",
+        "alternativas": [
+          "Eliminação das diferenças culturais.",
+          "Imposição de opiniões individuais.",
+          "Respeito pela diversidade e compromisso com objetivos comuns.",
+          "Separação dos cidadãos segundo as suas diferenças."
+        ],
+        "correta": 2,
+        "explicacao": "A unidade nacional promove a coesão, respeitando a diversidade existente na sociedade."
+      },
+      {
+        "pergunta": "Qual é a relação mais adequada entre paz e reconciliação nacional?",
+        "alternativas": [
+          "A reconciliação substitui a necessidade de convivência pacífica.",
+          "A paz favorece o diálogo, a convivência e a superação das divisões.",
+          "A paz depende da ausência de participação dos cidadãos.",
+          "A reconciliação exige que todos tenham opiniões idênticas."
+        ],
+        "correta": 1,
+        "explicacao": "A reconciliação nacional promove diálogo, unidade e coexistência pacífica."
+      },
+      {
+        "pergunta": "Um cidadão contribui para o desenvolvimento do país quando:",
+        "alternativas": [
+          "Participa de forma construtiva e cumpre os seus deveres.",
+          "Coloca sempre os interesses particulares em primeiro lugar.",
+          "Desrespeita os bens públicos quando discorda das instituições.",
+          "Evita qualquer responsabilidade na comunidade."
+        ],
+        "correta": 0,
+        "explicacao": "O cidadão contribui para o bem comum através do estudo, trabalho, responsabilidade e participação construtiva."
+      },
+      {
+        "pergunta": "No serviço público, servir a pátria significa essencialmente:",
+        "alternativas": [
+          "Procurar benefícios pessoais através do cargo.",
+          "Executar tarefas sem considerar os direitos dos cidadãos.",
+          "Colocar capacidades e esforços ao serviço do bem comum, dentro da lei.",
+          "Defender exclusivamente os interesses da instituição."
+        ],
+        "correta": 2,
+        "explicacao": "Servir a pátria implica contribuir para o bem comum, respeitando a lei e os direitos dos cidadãos."
+      },
+      {
+        "pergunta": "Qual comportamento melhor demonstra honestidade no exercício de funções públicas?",
+        "alternativas": [
+          "Favorecer familiares quando existe oportunidade.",
+          "Rejeitar a corrupção e agir com integridade.",
+          "Ocultar irregularidades para proteger colegas.",
+          "Utilizar recursos públicos para necessidades particulares."
+        ],
+        "correta": 1,
+        "explicacao": "A honestidade exige integridade e rejeição de práticas corruptas."
+      },
+      {
+        "pergunta": "A solidariedade entre cidadãos contribui para:",
+        "alternativas": [
+          "Aumentar as divisões sociais.",
+          "Substituir todas as responsabilidades do Estado.",
+          "Fortalecer a convivência e o compromisso com a comunidade.",
+          "Eliminar a diversidade cultural."
+        ],
+        "correta": 2,
+        "explicacao": "A solidariedade fortalece a convivência social e o compromisso com o bem comum."
+      },
+      {
+        "pergunta": "Por que razão os jovens devem conhecer a história nacional?",
+        "alternativas": [
+          "Para compreender o passado, preservar a identidade e aprender com a história.",
+          "Para substituir o conhecimento das instituições.",
+          "Para evitar a participação na sociedade.",
+          "Para considerar que a história não tem relação com o presente."
+        ],
+        "correta": 0,
+        "explicacao": "Conhecer a história ajuda a preservar a memória nacional e a compreender a evolução da sociedade."
+      },
+      {
+        "pergunta": "Qual das opções representa uma manifestação de respeito pelas instituições nacionais?",
+        "alternativas": [
+          "Desconsiderar as normas quando não são convenientes.",
+          "Respeitar a Constituição, as leis e as instituições da República.",
+          "Confundir patriotismo com obediência sem limites.",
+          "Colocar interesses particulares acima da legalidade."
+        ],
+        "correta": 1,
+        "explicacao": "O respeito pelas instituições deve estar associado à Constituição, à legalidade e à responsabilidade cívica."
+      },
+      {
+        "pergunta": "Um agente público que age com patriotismo deve orientar a sua conduta principalmente por:",
+        "alternativas": [
+          "Interesses pessoais, favoritismo e conveniência.",
+          "Lealdade pessoal acima das normas.",
+          "Constituição, legalidade, respeito pelos cidadãos e interesse público.",
+          "Obediência a qualquer decisão, independentemente da sua legalidade."
+        ],
+        "correta": 2,
+        "explicacao": "O serviço patriótico exige responsabilidade, integridade, respeito pelos cidadãos e compromisso com o interesse público."
+      }
+    ]
   }
 }
